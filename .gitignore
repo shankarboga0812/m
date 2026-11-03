@@ -13,3 +13,5 @@ captures/
 .env
 backend/.env
 backend/node_modules/
+__pycache__/
+*.pyc
