@@ -9,7 +9,7 @@ class ProgressionTest {
     @Test fun xpAwardIsIdempotentPerSourceKey() {
         val a = XpEngine.batch(rules, "s1", 0, 4)
         val seen = HashSet<String>()
-        val first = XpEngine.award(seen, a.key, a.amount, a.reason); assertNotNull(first); seen += a.key
+        val first = XpEngine.award(seen, a.key, a.amount, a.reason); assertNotNull("a=$a seen=$seen", first); seen += a.key
         assertNull(XpEngine.award(seen, a.key, a.amount, a.reason))                 // reopening the same batch gives nothing
         assertNotNull(XpEngine.award(seen, XpEngine.batch(rules, "s1", 1, 4).key, 10, "x"))
         assertNull(XpEngine.award(seen, "k2", 0, "zero"))
