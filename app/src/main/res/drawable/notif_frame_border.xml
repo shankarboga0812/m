@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="130dp"
+    android:viewportWidth="320"
+    android:viewportHeight="130">
+    <path
+        android:pathData="M16,2 L304,2 L318,16 L318,114 L304,128 L16,128 L2,114 L2,16 Z"
+        android:fillColor="#050C12"
+        android:fillAlpha="0.94"
+        android:strokeColor="#BDF3FF"
+        android:strokeWidth="1.6"
+        android:strokeAlpha="0.95" />
+    <!-- top glow bar -->
+    <path
+        android:pathData="M22,2 L298,2"
+        android:strokeColor="#D9FAFF"
+        android:strokeWidth="3"
+        android:strokeAlpha="0.9" />
+    <!-- bottom glow bar -->
+    <path
+        android:pathData="M22,128 L298,128"
+        android:strokeColor="#4FD8FF"
+        android:strokeWidth="3"
+        android:strokeAlpha="0.8" />
+</vector>

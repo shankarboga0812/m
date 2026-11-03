@@ -1,0 +1,3864 @@
+{
+  "title": "GATE CS 2027 — 114-Day Transformation Plan",
+  "source_document": "GATE_CS_2027_114_Day_Transformation_Plan.docx",
+  "start_date": "2026-10-11",
+  "end_date": "2027-02-01",
+  "target_score": 85,
+  "study_hours_daily_min": 4,
+  "study_hours_daily_max": 6,
+  "sleep_time": "21:00",
+  "wake_time": "05:00",
+  "workout_time": "05:15-05:50",
+  "prepare_tomorrow_time": "20:30",
+  "mock_days": [
+    14,
+    21,
+    28,
+    35,
+    42,
+    49,
+    56,
+    63,
+    70,
+    77,
+    81,
+    85,
+    89,
+    93,
+    97,
+    100,
+    103,
+    106,
+    109,
+    112
+  ],
+  "mock_duration_minutes": 180,
+  "mock_analysis_minutes_min": 45,
+  "mock_analysis_minutes_max": 60,
+  "revision_offsets_days": [
+    1,
+    4,
+    7
+  ],
+  "alarm_times": [
+    "05:00",
+    "05:15",
+    "20:30",
+    "21:00"
+  ],
+  "days": [
+    {
+      "day": 1,
+      "date_label": "Sun, 11 Oct 2026",
+      "learning": "Engineering Mathematics — Discrete logic: propositions, connectives, truth tables, tautology/contradiction",
+      "revision_subject": "DL — Number systems, conversions and binary arithmetic",
+      "ga_mini_set": "Verbal: parts of speech, articles and subject–verb agreement; 5 questions (10–15 minutes).",
+      "rnr_due": [],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 2,
+      "date_label": "Mon, 12 Oct 2026",
+      "learning": "Theory of Computation — Alphabets, strings, languages and regular expressions",
+      "revision_subject": "DSA — Stacks, queues, circular queues and deques",
+      "ga_mini_set": "Verbal: tenses, verb forms, prepositions and conjunctions; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 1,
+          "topic": "Engineering Mathematics — Discrete logic: propositions, connectives, truth tables, tautology/contradiction"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 3,
+      "date_label": "Tue, 13 Oct 2026",
+      "learning": "Computer Networks — Layering principles; OSI and TCP/IP models",
+      "revision_subject": "DBMS — Relational algebra and tuple relational calculus",
+      "ga_mini_set": "Verbal: vocabulary, synonyms/antonyms and idioms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 2,
+          "topic": "Theory of Computation — Alphabets, strings, languages and regular expressions"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 4,
+      "date_label": "Wed, 14 Oct 2026",
+      "learning": "Compiler Design — Compiler architecture: front end, middle end, back end",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Verbal: reading comprehension and sentence ordering; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 3,
+          "topic": "Computer Networks — Layering principles; OSI and TCP/IP models"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 5,
+      "date_label": "Thu, 15 Oct 2026",
+      "learning": "C Programming — C data types, operators, precedence and expressions",
+      "revision_subject": "COA — Memory interfacing and memory hierarchy",
+      "ga_mini_set": "Quant: ratios, percentages, powers, exponents and logarithms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 4,
+          "topic": "Compiler Design — Compiler architecture: front end, middle end, back end"
+        },
+        {
+          "source_day": 1,
+          "topic": "Engineering Mathematics — Discrete logic: propositions, connectives, truth tables, tautology/contradiction"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 6,
+      "date_label": "Fri, 16 Oct 2026",
+      "learning": "Algorithms — Asymptotic analysis: O, Omega, Theta; best/average/worst cases",
+      "revision_subject": "GA — Quant: permutations, combinations and number series",
+      "ga_mini_set": "Quant: permutations, combinations and number series; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 5,
+          "topic": "C Programming — C data types, operators, precedence and expressions"
+        },
+        {
+          "source_day": 2,
+          "topic": "Theory of Computation — Alphabets, strings, languages and regular expressions"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 7,
+      "date_label": "Sat, 17 Oct 2026",
+      "learning": "Engineering Mathematics — Logic: equivalence, implication, inference, predicates and quantifiers",
+      "revision_subject": "DSA — Recursion and C/DSA output tracing",
+      "ga_mini_set": "Quant: estimation and mensuration; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 6,
+          "topic": "Algorithms — Asymptotic analysis: O, Omega, Theta; best/average/worst cases"
+        },
+        {
+          "source_day": 3,
+          "topic": "Computer Networks — Layering principles; OSI and TCP/IP models"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 8,
+      "date_label": "Sun, 18 Oct 2026",
+      "learning": "Theory of Computation — Regular languages and DFA construction",
+      "revision_subject": "DBMS — Lossless join and dependency preservation",
+      "ga_mini_set": "Quant: geometry, elementary statistics and probability; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 7,
+          "topic": "Engineering Mathematics — Logic: equivalence, implication, inference, predicates and quantifiers"
+        },
+        {
+          "source_day": 4,
+          "topic": "Compiler Design — Compiler architecture: front end, middle end, back end"
+        },
+        {
+          "source_day": 1,
+          "topic": "Engineering Mathematics — Discrete logic: propositions, connectives, truth tables, tautology/contradiction"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 9,
+      "date_label": "Mon, 19 Oct 2026",
+      "learning": "Computer Networks — Circuit, packet and virtual-circuit switching",
+      "revision_subject": "DL — Registers, counters, state tables/diagrams",
+      "ga_mini_set": "Quant: data interpretation, tables and charts; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 8,
+          "topic": "Theory of Computation — Regular languages and DFA construction"
+        },
+        {
+          "source_day": 5,
+          "topic": "C Programming — C data types, operators, precedence and expressions"
+        },
+        {
+          "source_day": 2,
+          "topic": "Theory of Computation — Alphabets, strings, languages and regular expressions"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 10,
+      "date_label": "Tue, 20 Oct 2026",
+      "learning": "Compiler Design — Lexical analysis: tokens, patterns, lexemes and regular expressions",
+      "revision_subject": "OS — Virtual memory and page replacement",
+      "ga_mini_set": "Analytical: deduction, induction, analogies and numerical relations; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 9,
+          "topic": "Computer Networks — Circuit, packet and virtual-circuit switching"
+        },
+        {
+          "source_day": 6,
+          "topic": "Algorithms — Asymptotic analysis: O, Omega, Theta; best/average/worst cases"
+        },
+        {
+          "source_day": 3,
+          "topic": "Computer Networks — Layering principles; OSI and TCP/IP models"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 11,
+      "date_label": "Wed, 21 Oct 2026",
+      "learning": "C Programming — Conditional statements, loops and control flow",
+      "revision_subject": "COA — Instruction formats, instruction sets and addressing modes",
+      "ga_mini_set": "Analytical: logical patterns and numerical reasoning; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 10,
+          "topic": "Compiler Design — Lexical analysis: tokens, patterns, lexemes and regular expressions"
+        },
+        {
+          "source_day": 7,
+          "topic": "Engineering Mathematics — Logic: equivalence, implication, inference, predicates and quantifiers"
+        },
+        {
+          "source_day": 4,
+          "topic": "Compiler Design — Compiler architecture: front end, middle end, back end"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 12,
+      "date_label": "Thu, 22 Oct 2026",
+      "learning": "Algorithms — Time/space complexity and operation counting",
+      "revision_subject": "GA — Spatial: rotation, reflection, scaling and translation",
+      "ga_mini_set": "Spatial: rotation, reflection, scaling and translation; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 11,
+          "topic": "C Programming — Conditional statements, loops and control flow"
+        },
+        {
+          "source_day": 8,
+          "topic": "Theory of Computation — Regular languages and DFA construction"
+        },
+        {
+          "source_day": 5,
+          "topic": "C Programming — C data types, operators, precedence and expressions"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 13,
+      "date_label": "Fri, 23 Oct 2026",
+      "learning": "Engineering Mathematics — Sets, Cartesian products, relations and relation properties",
+      "revision_subject": "DL — Floating-point and fixed-point representation",
+      "ga_mini_set": "Spatial: grouping, paper folding/cutting and 2D/3D patterns; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 12,
+          "topic": "Algorithms — Time/space complexity and operation counting"
+        },
+        {
+          "source_day": 9,
+          "topic": "Computer Networks — Circuit, packet and virtual-circuit switching"
+        },
+        {
+          "source_day": 6,
+          "topic": "Algorithms — Asymptotic analysis: O, Omega, Theta; best/average/worst cases"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 12,
+        "E": 8
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 14,
+      "date_label": "Sat, 24 Oct 2026 — FULL MOCK",
+      "learning": "Theory of Computation — NFA, epsilon-NFA and conversions",
+      "revision_subject": "DSA — BST operations, skewed BST and complexity",
+      "ga_mini_set": "Verbal: parts of speech, articles and subject–verb agreement; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 13,
+          "topic": "Engineering Mathematics — Sets, Cartesian products, relations and relation properties"
+        },
+        {
+          "source_day": 10,
+          "topic": "Compiler Design — Lexical analysis: tokens, patterns, lexemes and regular expressions"
+        },
+        {
+          "source_day": 7,
+          "topic": "Engineering Mathematics — Logic: equivalence, implication, inference, predicates and quantifiers"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 15,
+      "date_label": "Sun, 25 Oct 2026",
+      "learning": "Computer Networks — Bandwidth, delay, throughput and performance calculations",
+      "revision_subject": "DBMS — Functional dependencies and attribute closure",
+      "ga_mini_set": "Verbal: tenses, verb forms, prepositions and conjunctions; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 14,
+          "topic": "Theory of Computation — NFA, epsilon-NFA and conversions"
+        },
+        {
+          "source_day": 11,
+          "topic": "C Programming — Conditional statements, loops and control flow"
+        },
+        {
+          "source_day": 8,
+          "topic": "Theory of Computation — Regular languages and DFA construction"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 16,
+      "date_label": "Mon, 26 Oct 2026",
+      "learning": "Compiler Design — Finite automata for scanners and lexical errors",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Verbal: vocabulary, synonyms/antonyms and idioms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 15,
+          "topic": "Computer Networks — Bandwidth, delay, throughput and performance calculations"
+        },
+        {
+          "source_day": 12,
+          "topic": "Algorithms — Time/space complexity and operation counting"
+        },
+        {
+          "source_day": 9,
+          "topic": "Computer Networks — Circuit, packet and virtual-circuit switching"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 17,
+      "date_label": "Tue, 27 Oct 2026",
+      "learning": "C Programming — Functions, scope, storage classes and linkage",
+      "revision_subject": "COA — Cache replacement/write policies and performance",
+      "ga_mini_set": "Verbal: reading comprehension and sentence ordering; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 16,
+          "topic": "Compiler Design — Finite automata for scanners and lexical errors"
+        },
+        {
+          "source_day": 13,
+          "topic": "Engineering Mathematics — Sets, Cartesian products, relations and relation properties"
+        },
+        {
+          "source_day": 10,
+          "topic": "Compiler Design — Lexical analysis: tokens, patterns, lexemes and regular expressions"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 18,
+      "date_label": "Wed, 28 Oct 2026",
+      "learning": "Algorithms — Recurrences: substitution, recursion tree and Master theorem",
+      "revision_subject": "GA — Quant: ratios, percentages, powers, exponents and logarithms",
+      "ga_mini_set": "Quant: ratios, percentages, powers, exponents and logarithms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 17,
+          "topic": "C Programming — Functions, scope, storage classes and linkage"
+        },
+        {
+          "source_day": 14,
+          "topic": "Theory of Computation — NFA, epsilon-NFA and conversions"
+        },
+        {
+          "source_day": 11,
+          "topic": "C Programming — Conditional statements, loops and control flow"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 19,
+      "date_label": "Thu, 29 Oct 2026",
+      "learning": "Engineering Mathematics — Equivalence relations/classes; partial orders, Hasse diagrams and lattices",
+      "revision_subject": "DSA — Sorting stability, in-place properties and complexity",
+      "ga_mini_set": "Quant: permutations, combinations and number series; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 18,
+          "topic": "Algorithms — Recurrences: substitution, recursion tree and Master theorem"
+        },
+        {
+          "source_day": 15,
+          "topic": "Computer Networks — Bandwidth, delay, throughput and performance calculations"
+        },
+        {
+          "source_day": 12,
+          "topic": "Algorithms — Time/space complexity and operation counting"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 20,
+      "date_label": "Fri, 30 Oct 2026",
+      "learning": "Theory of Computation — NFA-to-DFA subset construction and equivalence",
+      "revision_subject": "DBMS — Transactions, ACID, serializability and locking",
+      "ga_mini_set": "Quant: estimation and mensuration; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 19,
+          "topic": "Engineering Mathematics — Equivalence relations/classes; partial orders, Hasse diagrams and lattices"
+        },
+        {
+          "source_day": 16,
+          "topic": "Compiler Design — Finite automata for scanners and lexical errors"
+        },
+        {
+          "source_day": 13,
+          "topic": "Engineering Mathematics — Sets, Cartesian products, relations and relation properties"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 21,
+      "date_label": "Sat, 31 Oct 2026 — FULL MOCK",
+      "learning": "Computer Networks — Data-link framing, error detection, checksums and CRC",
+      "revision_subject": "DL — Number systems, conversions and binary arithmetic",
+      "ga_mini_set": "Quant: geometry, elementary statistics and probability; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 20,
+          "topic": "Theory of Computation — NFA-to-DFA subset construction and equivalence"
+        },
+        {
+          "source_day": 17,
+          "topic": "C Programming — Functions, scope, storage classes and linkage"
+        },
+        {
+          "source_day": 14,
+          "topic": "Theory of Computation — NFA, epsilon-NFA and conversions"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 22,
+      "date_label": "Sun, 01 Nov 2026",
+      "learning": "Compiler Design — Parsing fundamentals, derivations and parse trees",
+      "revision_subject": "OS — Virtual memory and page replacement",
+      "ga_mini_set": "Quant: data interpretation, tables and charts; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 21,
+          "topic": "Computer Networks — Data-link framing, error detection, checksums and CRC"
+        },
+        {
+          "source_day": 18,
+          "topic": "Algorithms — Recurrences: substitution, recursion tree and Master theorem"
+        },
+        {
+          "source_day": 15,
+          "topic": "Computer Networks — Bandwidth, delay, throughput and performance calculations"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 23,
+      "date_label": "Mon, 02 Nov 2026",
+      "learning": "C Programming — Pointers: address/dereference and pointer arithmetic",
+      "revision_subject": "COA — ALU design and arithmetic operations",
+      "ga_mini_set": "Analytical: deduction, induction, analogies and numerical relations; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 22,
+          "topic": "Compiler Design — Parsing fundamentals, derivations and parse trees"
+        },
+        {
+          "source_day": 19,
+          "topic": "Engineering Mathematics — Equivalence relations/classes; partial orders, Hasse diagrams and lattices"
+        },
+        {
+          "source_day": 16,
+          "topic": "Compiler Design — Finite automata for scanners and lexical errors"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 24,
+      "date_label": "Tue, 03 Nov 2026",
+      "learning": "Algorithms — Linear/binary search, correctness and complexity",
+      "revision_subject": "GA — Analytical: logical patterns and numerical reasoning",
+      "ga_mini_set": "Analytical: logical patterns and numerical reasoning; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 23,
+          "topic": "C Programming — Pointers: address/dereference and pointer arithmetic"
+        },
+        {
+          "source_day": 20,
+          "topic": "Theory of Computation — NFA-to-DFA subset construction and equivalence"
+        },
+        {
+          "source_day": 17,
+          "topic": "C Programming — Functions, scope, storage classes and linkage"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 25,
+      "date_label": "Wed, 04 Nov 2026",
+      "learning": "Engineering Mathematics — Functions: injective, surjective, bijective, composition and inverses",
+      "revision_subject": "DL — K-maps and tabular minimization",
+      "ga_mini_set": "Spatial: rotation, reflection, scaling and translation; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 24,
+          "topic": "Algorithms — Linear/binary search, correctness and complexity"
+        },
+        {
+          "source_day": 21,
+          "topic": "Computer Networks — Data-link framing, error detection, checksums and CRC"
+        },
+        {
+          "source_day": 18,
+          "topic": "Algorithms — Recurrences: substitution, recursion tree and Master theorem"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 26,
+      "date_label": "Thu, 05 Nov 2026",
+      "learning": "Theory of Computation — Automata minimisation and regular-language closure properties",
+      "revision_subject": "DSA — Graph representations, BFS and DFS",
+      "ga_mini_set": "Spatial: grouping, paper folding/cutting and 2D/3D patterns; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 25,
+          "topic": "Engineering Mathematics — Functions: injective, surjective, bijective, composition and inverses"
+        },
+        {
+          "source_day": 22,
+          "topic": "Compiler Design — Parsing fundamentals, derivations and parse trees"
+        },
+        {
+          "source_day": 19,
+          "topic": "Engineering Mathematics — Equivalence relations/classes; partial orders, Hasse diagrams and lattices"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 27,
+      "date_label": "Fri, 06 Nov 2026",
+      "learning": "Computer Networks — MAC protocols and Ethernet",
+      "revision_subject": "DBMS — 3NF, BCNF and decomposition",
+      "ga_mini_set": "Verbal: parts of speech, articles and subject–verb agreement; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 26,
+          "topic": "Theory of Computation — Automata minimisation and regular-language closure properties"
+        },
+        {
+          "source_day": 23,
+          "topic": "C Programming — Pointers: address/dereference and pointer arithmetic"
+        },
+        {
+          "source_day": 20,
+          "topic": "Theory of Computation — NFA-to-DFA subset construction and equivalence"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 28,
+      "date_label": "Sat, 07 Nov 2026 — FULL MOCK",
+      "learning": "Compiler Design — FIRST and FOLLOW sets",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Verbal: tenses, verb forms, prepositions and conjunctions; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 27,
+          "topic": "Computer Networks — MAC protocols and Ethernet"
+        },
+        {
+          "source_day": 24,
+          "topic": "Algorithms — Linear/binary search, correctness and complexity"
+        },
+        {
+          "source_day": 21,
+          "topic": "Computer Networks — Data-link framing, error detection, checksums and CRC"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 29,
+      "date_label": "Sun, 08 Nov 2026",
+      "learning": "C Programming — Arrays, strings and pointer-array relationships",
+      "revision_subject": "COA — I/O interfaces, interrupts and DMA",
+      "ga_mini_set": "Verbal: vocabulary, synonyms/antonyms and idioms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 28,
+          "topic": "Compiler Design — FIRST and FOLLOW sets"
+        },
+        {
+          "source_day": 25,
+          "topic": "Engineering Mathematics — Functions: injective, surjective, bijective, composition and inverses"
+        },
+        {
+          "source_day": 22,
+          "topic": "Compiler Design — Parsing fundamentals, derivations and parse trees"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 30,
+      "date_label": "Mon, 09 Nov 2026",
+      "learning": "Algorithms — Comparison sorting, lower bounds and stability",
+      "revision_subject": "GA — Verbal: reading comprehension and sentence ordering",
+      "ga_mini_set": "Verbal: reading comprehension and sentence ordering; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 29,
+          "topic": "C Programming — Arrays, strings and pointer-array relationships"
+        },
+        {
+          "source_day": 26,
+          "topic": "Theory of Computation — Automata minimisation and regular-language closure properties"
+        },
+        {
+          "source_day": 23,
+          "topic": "C Programming — Pointers: address/dereference and pointer arithmetic"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 31,
+      "date_label": "Tue, 10 Nov 2026",
+      "learning": "Engineering Mathematics — Algebraic structures: binary operations, closure, associativity, identity, monoids/groups",
+      "revision_subject": "DSA — Arrays, linked lists and operation complexity",
+      "ga_mini_set": "Quant: ratios, percentages, powers, exponents and logarithms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 30,
+          "topic": "Algorithms — Comparison sorting, lower bounds and stability"
+        },
+        {
+          "source_day": 27,
+          "topic": "Computer Networks — MAC protocols and Ethernet"
+        },
+        {
+          "source_day": 24,
+          "topic": "Algorithms — Linear/binary search, correctness and complexity"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 32,
+      "date_label": "Wed, 11 Nov 2026",
+      "learning": "Theory of Computation — Pumping lemma for regular languages",
+      "revision_subject": "DBMS — Relational model, keys and integrity constraints",
+      "ga_mini_set": "Quant: permutations, combinations and number series; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 31,
+          "topic": "Engineering Mathematics — Algebraic structures: binary operations, closure, associativity, identity, monoids/groups"
+        },
+        {
+          "source_day": 28,
+          "topic": "Compiler Design — FIRST and FOLLOW sets"
+        },
+        {
+          "source_day": 25,
+          "topic": "Engineering Mathematics — Functions: injective, surjective, bijective, composition and inverses"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 33,
+      "date_label": "Thu, 12 Nov 2026",
+      "learning": "Computer Networks — Switching and forwarding basics",
+      "revision_subject": "DL — Floating-point and fixed-point representation",
+      "ga_mini_set": "Quant: estimation and mensuration; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 32,
+          "topic": "Theory of Computation — Pumping lemma for regular languages"
+        },
+        {
+          "source_day": 29,
+          "topic": "C Programming — Arrays, strings and pointer-array relationships"
+        },
+        {
+          "source_day": 26,
+          "topic": "Theory of Computation — Automata minimisation and regular-language closure properties"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 34,
+      "date_label": "Fri, 13 Nov 2026",
+      "learning": "Compiler Design — Top-down parsing and LL(1) table construction",
+      "revision_subject": "OS — Virtual memory and page replacement",
+      "ga_mini_set": "Quant: geometry, elementary statistics and probability; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 33,
+          "topic": "Computer Networks — Switching and forwarding basics"
+        },
+        {
+          "source_day": 30,
+          "topic": "Algorithms — Comparison sorting, lower bounds and stability"
+        },
+        {
+          "source_day": 27,
+          "topic": "Computer Networks — MAC protocols and Ethernet"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 35,
+      "date_label": "Sat, 14 Nov 2026 — FULL MOCK",
+      "learning": "C Programming — Structures, unions, enums and alignment basics",
+      "revision_subject": "COA — Memory interfacing and memory hierarchy",
+      "ga_mini_set": "Quant: data interpretation, tables and charts; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 34,
+          "topic": "Compiler Design — Top-down parsing and LL(1) table construction"
+        },
+        {
+          "source_day": 31,
+          "topic": "Engineering Mathematics — Algebraic structures: binary operations, closure, associativity, identity, monoids/groups"
+        },
+        {
+          "source_day": 28,
+          "topic": "Compiler Design — FIRST and FOLLOW sets"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 36,
+      "date_label": "Sun, 15 Nov 2026",
+      "learning": "Algorithms — Merge sort and quicksort analysis",
+      "revision_subject": "GA — Analytical: deduction, induction, analogies and numerical relations",
+      "ga_mini_set": "Analytical: deduction, induction, analogies and numerical relations; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 35,
+          "topic": "C Programming — Structures, unions, enums and alignment basics"
+        },
+        {
+          "source_day": 32,
+          "topic": "Theory of Computation — Pumping lemma for regular languages"
+        },
+        {
+          "source_day": 29,
+          "topic": "C Programming — Arrays, strings and pointer-array relationships"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 37,
+      "date_label": "Mon, 16 Nov 2026",
+      "learning": "Engineering Mathematics — Graph theory: degree, paths, cycles, components and connectivity",
+      "revision_subject": "DL — Comparators and circuit design",
+      "ga_mini_set": "Analytical: logical patterns and numerical reasoning; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 36,
+          "topic": "Algorithms — Merge sort and quicksort analysis"
+        },
+        {
+          "source_day": 33,
+          "topic": "Computer Networks — Switching and forwarding basics"
+        },
+        {
+          "source_day": 30,
+          "topic": "Algorithms — Comparison sorting, lower bounds and stability"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 38,
+      "date_label": "Tue, 17 Nov 2026",
+      "learning": "Theory of Computation — CFG basics, derivations and parse trees",
+      "revision_subject": "DSA — Hashing and collision resolution",
+      "ga_mini_set": "Spatial: rotation, reflection, scaling and translation; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 37,
+          "topic": "Engineering Mathematics — Graph theory: degree, paths, cycles, components and connectivity"
+        },
+        {
+          "source_day": 34,
+          "topic": "Compiler Design — Top-down parsing and LL(1) table construction"
+        },
+        {
+          "source_day": 31,
+          "topic": "Engineering Mathematics — Algebraic structures: binary operations, closure, associativity, identity, monoids/groups"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 39,
+      "date_label": "Wed, 18 Nov 2026",
+      "learning": "Computer Networks — Distance-vector routing and Bellman-Ford intuition",
+      "revision_subject": "DBMS — File organisation, indexing, B-trees/B+ trees",
+      "ga_mini_set": "Spatial: grouping, paper folding/cutting and 2D/3D patterns; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 38,
+          "topic": "Theory of Computation — CFG basics, derivations and parse trees"
+        },
+        {
+          "source_day": 35,
+          "topic": "C Programming — Structures, unions, enums and alignment basics"
+        },
+        {
+          "source_day": 32,
+          "topic": "Theory of Computation — Pumping lemma for regular languages"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 40,
+      "date_label": "Thu, 19 Nov 2026",
+      "learning": "Compiler Design — Bottom-up parsing, handles and viable prefixes",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Verbal: parts of speech, articles and subject–verb agreement; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 39,
+          "topic": "Computer Networks — Distance-vector routing and Bellman-Ford intuition"
+        },
+        {
+          "source_day": 36,
+          "topic": "Algorithms — Merge sort and quicksort analysis"
+        },
+        {
+          "source_day": 33,
+          "topic": "Computer Networks — Switching and forwarding basics"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 41,
+      "date_label": "Fri, 20 Nov 2026",
+      "learning": "C Programming — Dynamic memory allocation: malloc/calloc/realloc/free",
+      "revision_subject": "COA — Instruction formats, instruction sets and addressing modes",
+      "ga_mini_set": "Verbal: tenses, verb forms, prepositions and conjunctions; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 40,
+          "topic": "Compiler Design — Bottom-up parsing, handles and viable prefixes"
+        },
+        {
+          "source_day": 37,
+          "topic": "Engineering Mathematics — Graph theory: degree, paths, cycles, components and connectivity"
+        },
+        {
+          "source_day": 34,
+          "topic": "Compiler Design — Top-down parsing and LL(1) table construction"
+        }
+      ],
+      "sets": {
+        "P": 15,
+        "R": 15,
+        "E": 10
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 42,
+      "date_label": "Sat, 21 Nov 2026 — FULL MOCK",
+      "learning": "Algorithms — Heap sort, heaps and priority queues",
+      "revision_subject": "GA — Verbal: vocabulary, synonyms/antonyms and idioms",
+      "ga_mini_set": "Verbal: vocabulary, synonyms/antonyms and idioms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 41,
+          "topic": "C Programming — Dynamic memory allocation: malloc/calloc/realloc/free"
+        },
+        {
+          "source_day": 38,
+          "topic": "Theory of Computation — CFG basics, derivations and parse trees"
+        },
+        {
+          "source_day": 35,
+          "topic": "C Programming — Structures, unions, enums and alignment basics"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 43,
+      "date_label": "Sun, 22 Nov 2026",
+      "learning": "Engineering Mathematics — Trees, spanning trees, bipartite graphs, matching and colouring",
+      "revision_subject": "DSA — Trees, traversals and binary-tree properties",
+      "ga_mini_set": "Verbal: reading comprehension and sentence ordering; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 42,
+          "topic": "Algorithms — Heap sort, heaps and priority queues"
+        },
+        {
+          "source_day": 39,
+          "topic": "Computer Networks — Distance-vector routing and Bellman-Ford intuition"
+        },
+        {
+          "source_day": 36,
+          "topic": "Algorithms — Merge sort and quicksort analysis"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 44,
+      "date_label": "Mon, 23 Nov 2026",
+      "learning": "Theory of Computation — Ambiguous grammars and grammar simplification",
+      "revision_subject": "DBMS — SQL joins, grouping and nested queries",
+      "ga_mini_set": "Quant: ratios, percentages, powers, exponents and logarithms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 43,
+          "topic": "Engineering Mathematics — Trees, spanning trees, bipartite graphs, matching and colouring"
+        },
+        {
+          "source_day": 40,
+          "topic": "Compiler Design — Bottom-up parsing, handles and viable prefixes"
+        },
+        {
+          "source_day": 37,
+          "topic": "Engineering Mathematics — Graph theory: degree, paths, cycles, components and connectivity"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 45,
+      "date_label": "Tue, 24 Nov 2026",
+      "learning": "Computer Networks — Link-state routing and Dijkstra intuition",
+      "revision_subject": "DL — K-maps and tabular minimization",
+      "ga_mini_set": "Quant: permutations, combinations and number series; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 44,
+          "topic": "Theory of Computation — Ambiguous grammars and grammar simplification"
+        },
+        {
+          "source_day": 41,
+          "topic": "C Programming — Dynamic memory allocation: malloc/calloc/realloc/free"
+        },
+        {
+          "source_day": 38,
+          "topic": "Theory of Computation — CFG basics, derivations and parse trees"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 46,
+      "date_label": "Wed, 25 Nov 2026",
+      "learning": "Compiler Design — LR parsing concepts; SLR, LR(1) and LALR distinctions",
+      "revision_subject": "OS — Virtual memory and page replacement",
+      "ga_mini_set": "Quant: estimation and mensuration; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 45,
+          "topic": "Computer Networks — Link-state routing and Dijkstra intuition"
+        },
+        {
+          "source_day": 42,
+          "topic": "Algorithms — Heap sort, heaps and priority queues"
+        },
+        {
+          "source_day": 39,
+          "topic": "Computer Networks — Distance-vector routing and Bellman-Ford intuition"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 47,
+      "date_label": "Thu, 26 Nov 2026",
+      "learning": "C Programming — Recursion, call stack and tracing",
+      "revision_subject": "COA — Cache replacement/write policies and performance",
+      "ga_mini_set": "Quant: geometry, elementary statistics and probability; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 46,
+          "topic": "Compiler Design — LR parsing concepts; SLR, LR(1) and LALR distinctions"
+        },
+        {
+          "source_day": 43,
+          "topic": "Engineering Mathematics — Trees, spanning trees, bipartite graphs, matching and colouring"
+        },
+        {
+          "source_day": 40,
+          "topic": "Compiler Design — Bottom-up parsing, handles and viable prefixes"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 48,
+      "date_label": "Fri, 27 Nov 2026",
+      "learning": "Algorithms — Hashing and collision resolution",
+      "revision_subject": "GA — Quant: data interpretation, tables and charts",
+      "ga_mini_set": "Quant: data interpretation, tables and charts; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 47,
+          "topic": "C Programming — Recursion, call stack and tracing"
+        },
+        {
+          "source_day": 44,
+          "topic": "Theory of Computation — Ambiguous grammars and grammar simplification"
+        },
+        {
+          "source_day": 41,
+          "topic": "C Programming — Dynamic memory allocation: malloc/calloc/realloc/free"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 49,
+      "date_label": "Sat, 28 Nov 2026 — FULL MOCK",
+      "learning": "Engineering Mathematics — Combinatorics: sum/product rules, permutations, combinations, pigeonhole principle",
+      "revision_subject": "DL — Registers, counters, state tables/diagrams",
+      "ga_mini_set": "Analytical: deduction, induction, analogies and numerical relations; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 48,
+          "topic": "Algorithms — Hashing and collision resolution"
+        },
+        {
+          "source_day": 45,
+          "topic": "Computer Networks — Link-state routing and Dijkstra intuition"
+        },
+        {
+          "source_day": 42,
+          "topic": "Algorithms — Heap sort, heaps and priority queues"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 50,
+      "date_label": "Sun, 29 Nov 2026",
+      "learning": "Theory of Computation — Chomsky Normal Form and conversions",
+      "revision_subject": "DSA — Mixed DSA PYQs and error-log reattempt",
+      "ga_mini_set": "Analytical: logical patterns and numerical reasoning; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 49,
+          "topic": "Engineering Mathematics — Combinatorics: sum/product rules, permutations, combinations, pigeonhole principle"
+        },
+        {
+          "source_day": 46,
+          "topic": "Compiler Design — LR parsing concepts; SLR, LR(1) and LALR distinctions"
+        },
+        {
+          "source_day": 43,
+          "topic": "Engineering Mathematics — Trees, spanning trees, bipartite graphs, matching and colouring"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 51,
+      "date_label": "Mon, 30 Nov 2026",
+      "learning": "Computer Networks — IPv4 addressing, subnetting and CIDR",
+      "revision_subject": "DBMS — ER model and ER-to-relational mapping",
+      "ga_mini_set": "Spatial: rotation, reflection, scaling and translation; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 50,
+          "topic": "Theory of Computation — Chomsky Normal Form and conversions"
+        },
+        {
+          "source_day": 47,
+          "topic": "C Programming — Recursion, call stack and tracing"
+        },
+        {
+          "source_day": 44,
+          "topic": "Theory of Computation — Ambiguous grammars and grammar simplification"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 52,
+      "date_label": "Tue, 01 Dec 2026",
+      "learning": "Compiler Design — Syntax-directed definitions and translation",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Spatial: grouping, paper folding/cutting and 2D/3D patterns; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 51,
+          "topic": "Computer Networks — IPv4 addressing, subnetting and CIDR"
+        },
+        {
+          "source_day": 48,
+          "topic": "Algorithms — Hashing and collision resolution"
+        },
+        {
+          "source_day": 45,
+          "topic": "Computer Networks — Link-state routing and Dijkstra intuition"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 53,
+      "date_label": "Wed, 02 Dec 2026",
+      "learning": "C Programming — C output prediction: precedence, side effects and tricky expressions",
+      "revision_subject": "COA — ALU design and arithmetic operations",
+      "ga_mini_set": "Verbal: parts of speech, articles and subject–verb agreement; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 52,
+          "topic": "Compiler Design — Syntax-directed definitions and translation"
+        },
+        {
+          "source_day": 49,
+          "topic": "Engineering Mathematics — Combinatorics: sum/product rules, permutations, combinations, pigeonhole principle"
+        },
+        {
+          "source_day": 46,
+          "topic": "Compiler Design — LR parsing concepts; SLR, LR(1) and LALR distinctions"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 54,
+      "date_label": "Thu, 03 Dec 2026",
+      "learning": "Algorithms — Divide-and-conquer design and recurrence practice",
+      "revision_subject": "GA — Verbal: tenses, verb forms, prepositions and conjunctions",
+      "ga_mini_set": "Verbal: tenses, verb forms, prepositions and conjunctions; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 53,
+          "topic": "C Programming — C output prediction: precedence, side effects and tricky expressions"
+        },
+        {
+          "source_day": 50,
+          "topic": "Theory of Computation — Chomsky Normal Form and conversions"
+        },
+        {
+          "source_day": 47,
+          "topic": "C Programming — Recursion, call stack and tracing"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 55,
+      "date_label": "Fri, 04 Dec 2026",
+      "learning": "Engineering Mathematics — Inclusion-exclusion, recurrence relations and generating functions",
+      "revision_subject": "DSA — Binary heaps and priority queues",
+      "ga_mini_set": "Verbal: vocabulary, synonyms/antonyms and idioms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 54,
+          "topic": "Algorithms — Divide-and-conquer design and recurrence practice"
+        },
+        {
+          "source_day": 51,
+          "topic": "Computer Networks — IPv4 addressing, subnetting and CIDR"
+        },
+        {
+          "source_day": 48,
+          "topic": "Algorithms — Hashing and collision resolution"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 56,
+      "date_label": "Sat, 05 Dec 2026 — FULL MOCK",
+      "learning": "Theory of Computation — Pushdown automata and context-free languages",
+      "revision_subject": "DBMS — Candidate keys and normalization",
+      "ga_mini_set": "Verbal: reading comprehension and sentence ordering; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 55,
+          "topic": "Engineering Mathematics — Inclusion-exclusion, recurrence relations and generating functions"
+        },
+        {
+          "source_day": 52,
+          "topic": "Compiler Design — Syntax-directed definitions and translation"
+        },
+        {
+          "source_day": 49,
+          "topic": "Engineering Mathematics — Combinatorics: sum/product rules, permutations, combinations, pigeonhole principle"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 57,
+      "date_label": "Sun, 06 Dec 2026",
+      "learning": "Computer Networks — IPv4 fragmentation and MTU calculations",
+      "revision_subject": "DL — Comparators and circuit design",
+      "ga_mini_set": "Quant: ratios, percentages, powers, exponents and logarithms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 56,
+          "topic": "Theory of Computation — Pushdown automata and context-free languages"
+        },
+        {
+          "source_day": 53,
+          "topic": "C Programming — C output prediction: precedence, side effects and tricky expressions"
+        },
+        {
+          "source_day": 50,
+          "topic": "Theory of Computation — Chomsky Normal Form and conversions"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 58,
+      "date_label": "Mon, 07 Dec 2026",
+      "learning": "Compiler Design — Intermediate representations and three-address code",
+      "revision_subject": "OS — Virtual memory and page replacement",
+      "ga_mini_set": "Quant: permutations, combinations and number series; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 57,
+          "topic": "Computer Networks — IPv4 fragmentation and MTU calculations"
+        },
+        {
+          "source_day": 54,
+          "topic": "Algorithms — Divide-and-conquer design and recurrence practice"
+        },
+        {
+          "source_day": 51,
+          "topic": "Computer Networks — IPv4 addressing, subnetting and CIDR"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 59,
+      "date_label": "Tue, 08 Dec 2026",
+      "learning": "C Programming — Mixed C problems: pointers, recursion, arrays and memory",
+      "revision_subject": "COA — I/O interfaces, interrupts and DMA",
+      "ga_mini_set": "Quant: estimation and mensuration; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 58,
+          "topic": "Compiler Design — Intermediate representations and three-address code"
+        },
+        {
+          "source_day": 55,
+          "topic": "Engineering Mathematics — Inclusion-exclusion, recurrence relations and generating functions"
+        },
+        {
+          "source_day": 52,
+          "topic": "Compiler Design — Syntax-directed definitions and translation"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 60,
+      "date_label": "Wed, 09 Dec 2026",
+      "learning": "Algorithms — Greedy algorithms: activity selection and correctness",
+      "revision_subject": "GA — Quant: geometry, elementary statistics and probability",
+      "ga_mini_set": "Quant: geometry, elementary statistics and probability; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 59,
+          "topic": "C Programming — Mixed C problems: pointers, recursion, arrays and memory"
+        },
+        {
+          "source_day": 56,
+          "topic": "Theory of Computation — Pushdown automata and context-free languages"
+        },
+        {
+          "source_day": 53,
+          "topic": "C Programming — C output prediction: precedence, side effects and tricky expressions"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 61,
+      "date_label": "Thu, 10 Dec 2026",
+      "learning": "Engineering Mathematics — Linear algebra: matrix operations, types, transpose, inverse, determinants",
+      "revision_subject": "DL — Number systems, conversions and binary arithmetic",
+      "ga_mini_set": "Quant: data interpretation, tables and charts; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 60,
+          "topic": "Algorithms — Greedy algorithms: activity selection and correctness"
+        },
+        {
+          "source_day": 57,
+          "topic": "Computer Networks — IPv4 fragmentation and MTU calculations"
+        },
+        {
+          "source_day": 54,
+          "topic": "Algorithms — Divide-and-conquer design and recurrence practice"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 62,
+      "date_label": "Fri, 11 Dec 2026",
+      "learning": "Theory of Computation — Pumping lemma for context-free languages",
+      "revision_subject": "DSA — Stacks, queues, circular queues and deques",
+      "ga_mini_set": "Analytical: deduction, induction, analogies and numerical relations; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 61,
+          "topic": "Engineering Mathematics — Linear algebra: matrix operations, types, transpose, inverse, determinants"
+        },
+        {
+          "source_day": 58,
+          "topic": "Compiler Design — Intermediate representations and three-address code"
+        },
+        {
+          "source_day": 55,
+          "topic": "Engineering Mathematics — Inclusion-exclusion, recurrence relations and generating functions"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 63,
+      "date_label": "Sat, 12 Dec 2026 — FULL MOCK",
+      "learning": "Computer Networks — NAT and address translation",
+      "revision_subject": "DBMS — Relational algebra and tuple relational calculus",
+      "ga_mini_set": "Analytical: logical patterns and numerical reasoning; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 62,
+          "topic": "Theory of Computation — Pumping lemma for context-free languages"
+        },
+        {
+          "source_day": 59,
+          "topic": "C Programming — Mixed C problems: pointers, recursion, arrays and memory"
+        },
+        {
+          "source_day": 56,
+          "topic": "Theory of Computation — Pushdown automata and context-free languages"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 64,
+      "date_label": "Sun, 13 Dec 2026",
+      "learning": "Compiler Design — Quadruples, triples and indirect triples",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Spatial: rotation, reflection, scaling and translation; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 63,
+          "topic": "Computer Networks — NAT and address translation"
+        },
+        {
+          "source_day": 60,
+          "topic": "Algorithms — Greedy algorithms: activity selection and correctness"
+        },
+        {
+          "source_day": 57,
+          "topic": "Computer Networks — IPv4 fragmentation and MTU calculations"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 65,
+      "date_label": "Mon, 14 Dec 2026",
+      "learning": "Algorithms — Dynamic programming: states, transitions and memoisation",
+      "revision_subject": "COA — Memory interfacing and memory hierarchy",
+      "ga_mini_set": "Spatial: grouping, paper folding/cutting and 2D/3D patterns; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 64,
+          "topic": "Compiler Design — Quadruples, triples and indirect triples"
+        },
+        {
+          "source_day": 61,
+          "topic": "Engineering Mathematics — Linear algebra: matrix operations, types, transpose, inverse, determinants"
+        },
+        {
+          "source_day": 58,
+          "topic": "Compiler Design — Intermediate representations and three-address code"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 66,
+      "date_label": "Tue, 15 Dec 2026",
+      "learning": "Engineering Mathematics — Rank, systems of linear equations, consistency and Gaussian elimination",
+      "revision_subject": "GA — Verbal: parts of speech, articles and subject–verb agreement",
+      "ga_mini_set": "Verbal: parts of speech, articles and subject–verb agreement; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 65,
+          "topic": "Algorithms — Dynamic programming: states, transitions and memoisation"
+        },
+        {
+          "source_day": 62,
+          "topic": "Theory of Computation — Pumping lemma for context-free languages"
+        },
+        {
+          "source_day": 59,
+          "topic": "C Programming — Mixed C problems: pointers, recursion, arrays and memory"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 67,
+      "date_label": "Wed, 16 Dec 2026",
+      "learning": "Theory of Computation — Turing machine models and configurations",
+      "revision_subject": "DSA — Recursion and C/DSA output tracing",
+      "ga_mini_set": "Verbal: tenses, verb forms, prepositions and conjunctions; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 66,
+          "topic": "Engineering Mathematics — Rank, systems of linear equations, consistency and Gaussian elimination"
+        },
+        {
+          "source_day": 63,
+          "topic": "Computer Networks — NAT and address translation"
+        },
+        {
+          "source_day": 60,
+          "topic": "Algorithms — Greedy algorithms: activity selection and correctness"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 68,
+      "date_label": "Thu, 17 Dec 2026",
+      "learning": "Computer Networks — TCP fundamentals, sequence and acknowledgement numbers",
+      "revision_subject": "DBMS — Lossless join and dependency preservation",
+      "ga_mini_set": "Verbal: vocabulary, synonyms/antonyms and idioms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 67,
+          "topic": "Theory of Computation — Turing machine models and configurations"
+        },
+        {
+          "source_day": 64,
+          "topic": "Compiler Design — Quadruples, triples and indirect triples"
+        },
+        {
+          "source_day": 61,
+          "topic": "Engineering Mathematics — Linear algebra: matrix operations, types, transpose, inverse, determinants"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 69,
+      "date_label": "Fri, 18 Dec 2026",
+      "learning": "Compiler Design — Runtime environments, activation records and parameter passing",
+      "revision_subject": "DL — Registers, counters, state tables/diagrams",
+      "ga_mini_set": "Verbal: reading comprehension and sentence ordering; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 68,
+          "topic": "Computer Networks — TCP fundamentals, sequence and acknowledgement numbers"
+        },
+        {
+          "source_day": 65,
+          "topic": "Algorithms — Dynamic programming: states, transitions and memoisation"
+        },
+        {
+          "source_day": 62,
+          "topic": "Theory of Computation — Pumping lemma for context-free languages"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 70,
+      "date_label": "Sat, 19 Dec 2026 — FULL MOCK",
+      "learning": "Algorithms — LCS and 0/1 knapsack",
+      "revision_subject": "OS — Virtual memory and page replacement",
+      "ga_mini_set": "Quant: ratios, percentages, powers, exponents and logarithms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 69,
+          "topic": "Compiler Design — Runtime environments, activation records and parameter passing"
+        },
+        {
+          "source_day": 66,
+          "topic": "Engineering Mathematics — Rank, systems of linear equations, consistency and Gaussian elimination"
+        },
+        {
+          "source_day": 63,
+          "topic": "Computer Networks — NAT and address translation"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 71,
+      "date_label": "Sun, 20 Dec 2026",
+      "learning": "Engineering Mathematics — Eigenvalues, eigenvectors, characteristic polynomial and LU decomposition",
+      "revision_subject": "COA — Instruction formats, instruction sets and addressing modes",
+      "ga_mini_set": "Quant: permutations, combinations and number series; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 70,
+          "topic": "Algorithms — LCS and 0/1 knapsack"
+        },
+        {
+          "source_day": 67,
+          "topic": "Theory of Computation — Turing machine models and configurations"
+        },
+        {
+          "source_day": 64,
+          "topic": "Compiler Design — Quadruples, triples and indirect triples"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 72,
+      "date_label": "Mon, 21 Dec 2026",
+      "learning": "Theory of Computation — Decidability, undecidability and halting problem",
+      "revision_subject": "GA — Quant: estimation and mensuration",
+      "ga_mini_set": "Quant: estimation and mensuration; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 71,
+          "topic": "Engineering Mathematics — Eigenvalues, eigenvectors, characteristic polynomial and LU decomposition"
+        },
+        {
+          "source_day": 68,
+          "topic": "Computer Networks — TCP fundamentals, sequence and acknowledgement numbers"
+        },
+        {
+          "source_day": 65,
+          "topic": "Algorithms — Dynamic programming: states, transitions and memoisation"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 73,
+      "date_label": "Tue, 22 Dec 2026",
+      "learning": "Computer Networks — TCP flow control and window calculations",
+      "revision_subject": "DL — Floating-point and fixed-point representation",
+      "ga_mini_set": "Quant: geometry, elementary statistics and probability; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 72,
+          "topic": "Theory of Computation — Decidability, undecidability and halting problem"
+        },
+        {
+          "source_day": 69,
+          "topic": "Compiler Design — Runtime environments, activation records and parameter passing"
+        },
+        {
+          "source_day": 66,
+          "topic": "Engineering Mathematics — Rank, systems of linear equations, consistency and Gaussian elimination"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 74,
+      "date_label": "Wed, 23 Dec 2026",
+      "learning": "Compiler Design — Basic blocks and control-flow graphs",
+      "revision_subject": "DSA — BST operations, skewed BST and complexity",
+      "ga_mini_set": "Quant: data interpretation, tables and charts; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 73,
+          "topic": "Computer Networks — TCP flow control and window calculations"
+        },
+        {
+          "source_day": 70,
+          "topic": "Algorithms — LCS and 0/1 knapsack"
+        },
+        {
+          "source_day": 67,
+          "topic": "Theory of Computation — Turing machine models and configurations"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 75,
+      "date_label": "Thu, 24 Dec 2026",
+      "learning": "Algorithms — BFS, DFS, graph representations and complexity",
+      "revision_subject": "DBMS — Functional dependencies and attribute closure",
+      "ga_mini_set": "Analytical: deduction, induction, analogies and numerical relations; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 74,
+          "topic": "Compiler Design — Basic blocks and control-flow graphs"
+        },
+        {
+          "source_day": 71,
+          "topic": "Engineering Mathematics — Eigenvalues, eigenvectors, characteristic polynomial and LU decomposition"
+        },
+        {
+          "source_day": 68,
+          "topic": "Computer Networks — TCP fundamentals, sequence and acknowledgement numbers"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 76,
+      "date_label": "Fri, 25 Dec 2026",
+      "learning": "Engineering Mathematics — Calculus: limits, continuity, differentiability and derivative rules",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Analytical: logical patterns and numerical reasoning; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 75,
+          "topic": "Algorithms — BFS, DFS, graph representations and complexity"
+        },
+        {
+          "source_day": 72,
+          "topic": "Theory of Computation — Decidability, undecidability and halting problem"
+        },
+        {
+          "source_day": 69,
+          "topic": "Compiler Design — Runtime environments, activation records and parameter passing"
+        }
+      ],
+      "sets": {
+        "P": 12,
+        "R": 20,
+        "E": 12
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 77,
+      "date_label": "Sat, 26 Dec 2026 — FULL MOCK",
+      "learning": "Theory of Computation — Undecidability reductions and mixed TOC problems",
+      "revision_subject": "COA — Cache replacement/write policies and performance",
+      "ga_mini_set": "Spatial: rotation, reflection, scaling and translation; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 76,
+          "topic": "Engineering Mathematics — Calculus: limits, continuity, differentiability and derivative rules"
+        },
+        {
+          "source_day": 73,
+          "topic": "Computer Networks — TCP flow control and window calculations"
+        },
+        {
+          "source_day": 70,
+          "topic": "Algorithms — LCS and 0/1 knapsack"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 78,
+      "date_label": "Sun, 27 Dec 2026",
+      "learning": "Computer Networks — TCP congestion control",
+      "revision_subject": "GA — Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+      "ga_mini_set": "Spatial: grouping, paper folding/cutting and 2D/3D patterns; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 77,
+          "topic": "Theory of Computation — Undecidability reductions and mixed TOC problems"
+        },
+        {
+          "source_day": 74,
+          "topic": "Compiler Design — Basic blocks and control-flow graphs"
+        },
+        {
+          "source_day": 71,
+          "topic": "Engineering Mathematics — Eigenvalues, eigenvectors, characteristic polynomial and LU decomposition"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 79,
+      "date_label": "Mon, 28 Dec 2026",
+      "learning": "Compiler Design — Local optimisation and common subexpression elimination",
+      "revision_subject": "DSA — Sorting stability, in-place properties and complexity",
+      "ga_mini_set": "Verbal: parts of speech, articles and subject–verb agreement; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 78,
+          "topic": "Computer Networks — TCP congestion control"
+        },
+        {
+          "source_day": 75,
+          "topic": "Algorithms — BFS, DFS, graph representations and complexity"
+        },
+        {
+          "source_day": 72,
+          "topic": "Theory of Computation — Decidability, undecidability and halting problem"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 80,
+      "date_label": "Tue, 29 Dec 2026",
+      "learning": "Algorithms — Topological sorting and DAG applications",
+      "revision_subject": "DBMS — Transactions, ACID, serializability and locking",
+      "ga_mini_set": "Verbal: tenses, verb forms, prepositions and conjunctions; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 79,
+          "topic": "Compiler Design — Local optimisation and common subexpression elimination"
+        },
+        {
+          "source_day": 76,
+          "topic": "Engineering Mathematics — Calculus: limits, continuity, differentiability and derivative rules"
+        },
+        {
+          "source_day": 73,
+          "topic": "Computer Networks — TCP flow control and window calculations"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 81,
+      "date_label": "Wed, 30 Dec 2026 — FULL MOCK",
+      "learning": "Engineering Mathematics — Chain rule, implicit differentiation, partial and total derivatives",
+      "revision_subject": "DL — Number systems, conversions and binary arithmetic",
+      "ga_mini_set": "Verbal: vocabulary, synonyms/antonyms and idioms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 80,
+          "topic": "Algorithms — Topological sorting and DAG applications"
+        },
+        {
+          "source_day": 77,
+          "topic": "Theory of Computation — Undecidability reductions and mixed TOC problems"
+        },
+        {
+          "source_day": 74,
+          "topic": "Compiler Design — Basic blocks and control-flow graphs"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 82,
+      "date_label": "Thu, 31 Dec 2026",
+      "learning": "Computer Networks — UDP, socket API and client-server concepts",
+      "revision_subject": "OS — Virtual memory and page replacement",
+      "ga_mini_set": "Verbal: reading comprehension and sentence ordering; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 81,
+          "topic": "Engineering Mathematics — Chain rule, implicit differentiation, partial and total derivatives"
+        },
+        {
+          "source_day": 78,
+          "topic": "Computer Networks — TCP congestion control"
+        },
+        {
+          "source_day": 75,
+          "topic": "Algorithms — BFS, DFS, graph representations and complexity"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 83,
+      "date_label": "Fri, 01 Jan 2027",
+      "learning": "Compiler Design — Constant propagation and liveness analysis",
+      "revision_subject": "COA — ALU design and arithmetic operations",
+      "ga_mini_set": "Quant: ratios, percentages, powers, exponents and logarithms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 82,
+          "topic": "Computer Networks — UDP, socket API and client-server concepts"
+        },
+        {
+          "source_day": 79,
+          "topic": "Compiler Design — Local optimisation and common subexpression elimination"
+        },
+        {
+          "source_day": 76,
+          "topic": "Engineering Mathematics — Calculus: limits, continuity, differentiability and derivative rules"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 84,
+      "date_label": "Sat, 02 Jan 2027",
+      "learning": "Algorithms — Minimum spanning trees: Prim and Kruskal",
+      "revision_subject": "GA — Quant: permutations, combinations and number series",
+      "ga_mini_set": "Quant: permutations, combinations and number series; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 83,
+          "topic": "Compiler Design — Constant propagation and liveness analysis"
+        },
+        {
+          "source_day": 80,
+          "topic": "Algorithms — Topological sorting and DAG applications"
+        },
+        {
+          "source_day": 77,
+          "topic": "Theory of Computation — Undecidability reductions and mixed TOC problems"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 85,
+      "date_label": "Sun, 03 Jan 2027 — FULL MOCK",
+      "learning": "Engineering Mathematics — Maxima/minima, Rolle's theorem and Mean Value Theorem",
+      "revision_subject": "DL — K-maps and tabular minimization",
+      "ga_mini_set": "Quant: estimation and mensuration; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 84,
+          "topic": "Algorithms — Minimum spanning trees: Prim and Kruskal"
+        },
+        {
+          "source_day": 81,
+          "topic": "Engineering Mathematics — Chain rule, implicit differentiation, partial and total derivatives"
+        },
+        {
+          "source_day": 78,
+          "topic": "Computer Networks — TCP congestion control"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 86,
+      "date_label": "Mon, 04 Jan 2027",
+      "learning": "Computer Networks — DNS, HTTP and application-layer basics",
+      "revision_subject": "DSA — Graph representations, BFS and DFS",
+      "ga_mini_set": "Quant: geometry, elementary statistics and probability; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 85,
+          "topic": "Engineering Mathematics — Maxima/minima, Rolle's theorem and Mean Value Theorem"
+        },
+        {
+          "source_day": 82,
+          "topic": "Computer Networks — UDP, socket API and client-server concepts"
+        },
+        {
+          "source_day": 79,
+          "topic": "Compiler Design — Local optimisation and common subexpression elimination"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 87,
+      "date_label": "Tue, 05 Jan 2027",
+      "learning": "Compiler Design — Data-flow analysis and mixed compiler problems",
+      "revision_subject": "DBMS — 3NF, BCNF and decomposition",
+      "ga_mini_set": "Quant: data interpretation, tables and charts; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 86,
+          "topic": "Computer Networks — DNS, HTTP and application-layer basics"
+        },
+        {
+          "source_day": 83,
+          "topic": "Compiler Design — Constant propagation and liveness analysis"
+        },
+        {
+          "source_day": 80,
+          "topic": "Algorithms — Topological sorting and DAG applications"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 88,
+      "date_label": "Wed, 06 Jan 2027",
+      "learning": "Algorithms — Shortest paths: Dijkstra and Bellman-Ford",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Analytical: deduction, induction, analogies and numerical relations; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 87,
+          "topic": "Compiler Design — Data-flow analysis and mixed compiler problems"
+        },
+        {
+          "source_day": 84,
+          "topic": "Algorithms — Minimum spanning trees: Prim and Kruskal"
+        },
+        {
+          "source_day": 81,
+          "topic": "Engineering Mathematics — Chain rule, implicit differentiation, partial and total derivatives"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 89,
+      "date_label": "Thu, 07 Jan 2027 — FULL MOCK",
+      "learning": "Engineering Mathematics — Indefinite/definite integration and standard techniques",
+      "revision_subject": "COA — I/O interfaces, interrupts and DMA",
+      "ga_mini_set": "Analytical: logical patterns and numerical reasoning; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 88,
+          "topic": "Algorithms — Shortest paths: Dijkstra and Bellman-Ford"
+        },
+        {
+          "source_day": 85,
+          "topic": "Engineering Mathematics — Maxima/minima, Rolle's theorem and Mean Value Theorem"
+        },
+        {
+          "source_day": 82,
+          "topic": "Computer Networks — UDP, socket API and client-server concepts"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 90,
+      "date_label": "Fri, 08 Jan 2027",
+      "learning": "Computer Networks — CN mixed numericals and weak-topic repair",
+      "revision_subject": "GA — Spatial: rotation, reflection, scaling and translation",
+      "ga_mini_set": "Spatial: rotation, reflection, scaling and translation; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 89,
+          "topic": "Engineering Mathematics — Indefinite/definite integration and standard techniques"
+        },
+        {
+          "source_day": 86,
+          "topic": "Computer Networks — DNS, HTTP and application-layer basics"
+        },
+        {
+          "source_day": 83,
+          "topic": "Compiler Design — Constant propagation and liveness analysis"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 91,
+      "date_label": "Sat, 09 Jan 2027",
+      "learning": "Algorithms — Floyd-Warshall and all-pairs shortest paths",
+      "revision_subject": "DSA — Arrays, linked lists and operation complexity",
+      "ga_mini_set": "Spatial: grouping, paper folding/cutting and 2D/3D patterns; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 90,
+          "topic": "Computer Networks — CN mixed numericals and weak-topic repair"
+        },
+        {
+          "source_day": 87,
+          "topic": "Compiler Design — Data-flow analysis and mixed compiler problems"
+        },
+        {
+          "source_day": 84,
+          "topic": "Algorithms — Minimum spanning trees: Prim and Kruskal"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 92,
+      "date_label": "Sun, 10 Jan 2027",
+      "learning": "Engineering Mathematics — Probability: sample spaces, events, rules, conditional probability and independence",
+      "revision_subject": "DBMS — Relational model, keys and integrity constraints",
+      "ga_mini_set": "Verbal: parts of speech, articles and subject–verb agreement; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 91,
+          "topic": "Algorithms — Floyd-Warshall and all-pairs shortest paths"
+        },
+        {
+          "source_day": 88,
+          "topic": "Algorithms — Shortest paths: Dijkstra and Bellman-Ford"
+        },
+        {
+          "source_day": 85,
+          "topic": "Engineering Mathematics — Maxima/minima, Rolle's theorem and Mean Value Theorem"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 93,
+      "date_label": "Mon, 11 Jan 2027 — FULL MOCK",
+      "learning": "Algorithms — Disjoint sets: union-find, union by rank and path compression",
+      "revision_subject": "DL — Floating-point and fixed-point representation",
+      "ga_mini_set": "Verbal: tenses, verb forms, prepositions and conjunctions; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 92,
+          "topic": "Engineering Mathematics — Probability: sample spaces, events, rules, conditional probability and independence"
+        },
+        {
+          "source_day": 89,
+          "topic": "Engineering Mathematics — Indefinite/definite integration and standard techniques"
+        },
+        {
+          "source_day": 86,
+          "topic": "Computer Networks — DNS, HTTP and application-layer basics"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 94,
+      "date_label": "Tue, 12 Jan 2027",
+      "learning": "Engineering Mathematics — Bayes' theorem and random variables: PMF, PDF, CDF",
+      "revision_subject": "OS — Virtual memory and page replacement",
+      "ga_mini_set": "Verbal: vocabulary, synonyms/antonyms and idioms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 93,
+          "topic": "Algorithms — Disjoint sets: union-find, union by rank and path compression"
+        },
+        {
+          "source_day": 90,
+          "topic": "Computer Networks — CN mixed numericals and weak-topic repair"
+        },
+        {
+          "source_day": 87,
+          "topic": "Compiler Design — Data-flow analysis and mixed compiler problems"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 95,
+      "date_label": "Wed, 13 Jan 2027",
+      "learning": "Algorithms — Mixed algorithms: complexity, greedy, DP, graphs and shortest paths",
+      "revision_subject": "COA — Memory interfacing and memory hierarchy",
+      "ga_mini_set": "Verbal: reading comprehension and sentence ordering; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 94,
+          "topic": "Engineering Mathematics — Bayes' theorem and random variables: PMF, PDF, CDF"
+        },
+        {
+          "source_day": 91,
+          "topic": "Algorithms — Floyd-Warshall and all-pairs shortest paths"
+        },
+        {
+          "source_day": 88,
+          "topic": "Algorithms — Shortest paths: Dijkstra and Bellman-Ford"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 96,
+      "date_label": "Thu, 14 Jan 2027",
+      "learning": "Engineering Mathematics — Expectation, moments, mean, median, mode, variance and standard deviation",
+      "revision_subject": "GA — Quant: ratios, percentages, powers, exponents and logarithms",
+      "ga_mini_set": "Quant: ratios, percentages, powers, exponents and logarithms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 95,
+          "topic": "Algorithms — Mixed algorithms: complexity, greedy, DP, graphs and shortest paths"
+        },
+        {
+          "source_day": 92,
+          "topic": "Engineering Mathematics — Probability: sample spaces, events, rules, conditional probability and independence"
+        },
+        {
+          "source_day": 89,
+          "topic": "Engineering Mathematics — Indefinite/definite integration and standard techniques"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 97,
+      "date_label": "Fri, 15 Jan 2027 — FULL MOCK",
+      "learning": "Engineering Mathematics — Uniform and binomial distributions",
+      "revision_subject": "DL — Comparators and circuit design",
+      "ga_mini_set": "Quant: permutations, combinations and number series; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 96,
+          "topic": "Engineering Mathematics — Expectation, moments, mean, median, mode, variance and standard deviation"
+        },
+        {
+          "source_day": 93,
+          "topic": "Algorithms — Disjoint sets: union-find, union by rank and path compression"
+        },
+        {
+          "source_day": 90,
+          "topic": "Computer Networks — CN mixed numericals and weak-topic repair"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 98,
+      "date_label": "Sat, 16 Jan 2027",
+      "learning": "Engineering Mathematics — Poisson, exponential and normal distributions",
+      "revision_subject": "DSA — Hashing and collision resolution",
+      "ga_mini_set": "Quant: estimation and mensuration; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 97,
+          "topic": "Engineering Mathematics — Uniform and binomial distributions"
+        },
+        {
+          "source_day": 94,
+          "topic": "Engineering Mathematics — Bayes' theorem and random variables: PMF, PDF, CDF"
+        },
+        {
+          "source_day": 91,
+          "topic": "Algorithms — Floyd-Warshall and all-pairs shortest paths"
+        }
+      ],
+      "sets": {
+        "P": 8,
+        "R": 20,
+        "E": 15
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 99,
+      "date_label": "Sun, 17 Jan 2027",
+      "learning": "Engineering Mathematics — Discrete mathematics mixed hard problems",
+      "revision_subject": "DBMS — File organisation, indexing, B-trees/B+ trees",
+      "ga_mini_set": "Quant: geometry, elementary statistics and probability; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 98,
+          "topic": "Engineering Mathematics — Poisson, exponential and normal distributions"
+        },
+        {
+          "source_day": 95,
+          "topic": "Algorithms — Mixed algorithms: complexity, greedy, DP, graphs and shortest paths"
+        },
+        {
+          "source_day": 92,
+          "topic": "Engineering Mathematics — Probability: sample spaces, events, rules, conditional probability and independence"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 100,
+      "date_label": "Mon, 18 Jan 2027 — FULL MOCK",
+      "learning": "Engineering Mathematics — Linear algebra mixed hard problems",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Quant: data interpretation, tables and charts; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 99,
+          "topic": "Engineering Mathematics — Discrete mathematics mixed hard problems"
+        },
+        {
+          "source_day": 96,
+          "topic": "Engineering Mathematics — Expectation, moments, mean, median, mode, variance and standard deviation"
+        },
+        {
+          "source_day": 93,
+          "topic": "Algorithms — Disjoint sets: union-find, union by rank and path compression"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 101,
+      "date_label": "Tue, 19 Jan 2027",
+      "learning": "Engineering Mathematics — Calculus mixed hard problems",
+      "revision_subject": "COA — Instruction formats, instruction sets and addressing modes",
+      "ga_mini_set": "Analytical: deduction, induction, analogies and numerical relations; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 100,
+          "topic": "Engineering Mathematics — Linear algebra mixed hard problems"
+        },
+        {
+          "source_day": 97,
+          "topic": "Engineering Mathematics — Uniform and binomial distributions"
+        },
+        {
+          "source_day": 94,
+          "topic": "Engineering Mathematics — Bayes' theorem and random variables: PMF, PDF, CDF"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 102,
+      "date_label": "Wed, 20 Jan 2027",
+      "learning": "Engineering Mathematics — Probability/statistics mixed hard problems",
+      "revision_subject": "GA — Analytical: logical patterns and numerical reasoning",
+      "ga_mini_set": "Analytical: logical patterns and numerical reasoning; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 101,
+          "topic": "Engineering Mathematics — Calculus mixed hard problems"
+        },
+        {
+          "source_day": 98,
+          "topic": "Engineering Mathematics — Poisson, exponential and normal distributions"
+        },
+        {
+          "source_day": 95,
+          "topic": "Algorithms — Mixed algorithms: complexity, greedy, DP, graphs and shortest paths"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 103,
+      "date_label": "Thu, 21 Jan 2027 — FULL MOCK",
+      "learning": "Engineering Mathematics — Mixed maths diagnostic: discrete + linear algebra; repair 3 weakest subtopics",
+      "revision_subject": "DSA — Trees, traversals and binary-tree properties",
+      "ga_mini_set": "Spatial: rotation, reflection, scaling and translation; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 102,
+          "topic": "Engineering Mathematics — Probability/statistics mixed hard problems"
+        },
+        {
+          "source_day": 99,
+          "topic": "Engineering Mathematics — Discrete mathematics mixed hard problems"
+        },
+        {
+          "source_day": 96,
+          "topic": "Engineering Mathematics — Expectation, moments, mean, median, mode, variance and standard deviation"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 104,
+      "date_label": "Fri, 22 Jan 2027",
+      "learning": "C Programming — C output tracing and pointer/recursion repair",
+      "revision_subject": "DBMS — SQL joins, grouping and nested queries",
+      "ga_mini_set": "Spatial: grouping, paper folding/cutting and 2D/3D patterns; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 103,
+          "topic": "Engineering Mathematics — Mixed maths diagnostic: discrete + linear algebra; repair 3 weakest subtopics"
+        },
+        {
+          "source_day": 100,
+          "topic": "Engineering Mathematics — Linear algebra mixed hard problems"
+        },
+        {
+          "source_day": 97,
+          "topic": "Engineering Mathematics — Uniform and binomial distributions"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 105,
+      "date_label": "Sat, 23 Jan 2027",
+      "learning": "Theory of Computation — Automata, CFG/PDA and decidability mixed set",
+      "revision_subject": "DL — K-maps and tabular minimization",
+      "ga_mini_set": "Verbal: parts of speech, articles and subject–verb agreement; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 104,
+          "topic": "C Programming — C output tracing and pointer/recursion repair"
+        },
+        {
+          "source_day": 101,
+          "topic": "Engineering Mathematics — Calculus mixed hard problems"
+        },
+        {
+          "source_day": 98,
+          "topic": "Engineering Mathematics — Poisson, exponential and normal distributions"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 106,
+      "date_label": "Sun, 24 Jan 2027 — FULL MOCK",
+      "learning": "Computer Networks — Subnetting, routing, TCP and protocol mixed set",
+      "revision_subject": "OS — Virtual memory and page replacement",
+      "ga_mini_set": "Verbal: tenses, verb forms, prepositions and conjunctions; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 105,
+          "topic": "Theory of Computation — Automata, CFG/PDA and decidability mixed set"
+        },
+        {
+          "source_day": 102,
+          "topic": "Engineering Mathematics — Probability/statistics mixed hard problems"
+        },
+        {
+          "source_day": 99,
+          "topic": "Engineering Mathematics — Discrete mathematics mixed hard problems"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 107,
+      "date_label": "Mon, 25 Jan 2027",
+      "learning": "Compiler Design — FIRST/FOLLOW, parsing, intermediate code and data-flow mixed set",
+      "revision_subject": "COA — Cache replacement/write policies and performance",
+      "ga_mini_set": "Verbal: vocabulary, synonyms/antonyms and idioms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 106,
+          "topic": "Computer Networks — Subnetting, routing, TCP and protocol mixed set"
+        },
+        {
+          "source_day": 103,
+          "topic": "Engineering Mathematics — Mixed maths diagnostic: discrete + linear algebra; repair 3 weakest subtopics"
+        },
+        {
+          "source_day": 100,
+          "topic": "Engineering Mathematics — Linear algebra mixed hard problems"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 108,
+      "date_label": "Tue, 26 Jan 2027",
+      "learning": "Algorithms — Complexity, sorting, greedy, DP and graph algorithms mixed set",
+      "revision_subject": "GA — Verbal: reading comprehension and sentence ordering",
+      "ga_mini_set": "Verbal: reading comprehension and sentence ordering; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 107,
+          "topic": "Compiler Design — FIRST/FOLLOW, parsing, intermediate code and data-flow mixed set"
+        },
+        {
+          "source_day": 104,
+          "topic": "C Programming — C output tracing and pointer/recursion repair"
+        },
+        {
+          "source_day": 101,
+          "topic": "Engineering Mathematics — Calculus mixed hard problems"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Money: record spending and make a weekly budget.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 109,
+      "date_label": "Wed, 27 Jan 2027 — FULL MOCK",
+      "learning": "DSA + Algorithms — Cross-topic trees, graphs, heaps, union-find and complexity",
+      "revision_subject": "DL — Registers, counters, state tables/diagrams",
+      "ga_mini_set": "Quant: ratios, percentages, powers, exponents and logarithms; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 108,
+          "topic": "Algorithms — Complexity, sorting, greedy, DP and graph algorithms mixed set"
+        },
+        {
+          "source_day": 105,
+          "topic": "Theory of Computation — Automata, CFG/PDA and decidability mixed set"
+        },
+        {
+          "source_day": 102,
+          "topic": "Engineering Mathematics — Probability/statistics mixed hard problems"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up",
+      "life_quest": "Social: initiate one respectful conversation or ask a thoughtful question.",
+      "weekly_review": false,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 110,
+      "date_label": "Thu, 28 Jan 2027",
+      "learning": "DBMS + OS — Transactions/serializability plus scheduling/synchronisation mixed set",
+      "revision_subject": "DSA — Mixed DSA PYQs and error-log reattempt",
+      "ga_mini_set": "Quant: permutations, combinations and number series; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 109,
+          "topic": "DSA + Algorithms — Cross-topic trees, graphs, heaps, union-find and complexity"
+        },
+        {
+          "source_day": 106,
+          "topic": "Computer Networks — Subnetting, routing, TCP and protocol mixed set"
+        },
+        {
+          "source_day": 103,
+          "topic": "Engineering Mathematics — Mixed maths diagnostic: discrete + linear algebra; repair 3 weakest subtopics"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Digital safety: passwords, scams and privacy basics.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 111,
+      "date_label": "Fri, 29 Jan 2027",
+      "learning": "DL + COA — Representation, Boolean minimisation, cache and pipeline numericals",
+      "revision_subject": "DBMS — ER model and ER-to-relational mapping",
+      "ga_mini_set": "Quant: estimation and mensuration; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 110,
+          "topic": "DBMS + OS — Transactions/serializability plus scheduling/synchronisation mixed set"
+        },
+        {
+          "source_day": 107,
+          "topic": "Compiler Design — FIRST/FOLLOW, parsing, intermediate code and data-flow mixed set"
+        },
+        {
+          "source_day": 104,
+          "topic": "C Programming — C output tracing and pointer/recursion repair"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Legs + abs; 5-min warm-up",
+      "life_quest": "Career: improve one resume bullet or portfolio note.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 112,
+      "date_label": "Sat, 30 Jan 2027 — FULL MOCK",
+      "learning": "General Aptitude — Full GA timed practice: verbal, quant, analytical and spatial",
+      "revision_subject": "OS — Mutexes, semaphores and monitors",
+      "ga_mini_set": "Quant: geometry, elementary statistics and probability; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 111,
+          "topic": "DL + COA — Representation, Boolean minimisation, cache and pipeline numericals"
+        },
+        {
+          "source_day": 108,
+          "topic": "Algorithms — Complexity, sorting, greedy, DP and graph algorithms mixed set"
+        },
+        {
+          "source_day": 105,
+          "topic": "Theory of Computation — Automata, CFG/PDA and decidability mixed set"
+        }
+      ],
+      "sets": {
+        "P": 5,
+        "R": 15,
+        "E": 65
+      },
+      "set_ranges": {
+        "R": {
+          "min": 10,
+          "max": 15
+        }
+      },
+      "sets_source_text": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+      "workout": "Rest / easy walk / mobility; no hard training",
+      "life_quest": "Reflection: journal wins, blockers and one next action.",
+      "weekly_review": true,
+      "end_of_day_check": false,
+      "full_mock": true
+    },
+    {
+      "day": 113,
+      "date_label": "Sun, 31 Jan 2027",
+      "learning": "Mixed CS — Repair the 5 lowest-accuracy topics from all subjects",
+      "revision_subject": "COA — ALU design and arithmetic operations",
+      "ga_mini_set": "Quant: data interpretation, tables and charts; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 112,
+          "topic": "General Aptitude — Full GA timed practice: verbal, quant, analytical and spatial"
+        },
+        {
+          "source_day": 109,
+          "topic": "DSA + Algorithms — Cross-topic trees, graphs, heaps, union-find and complexity"
+        },
+        {
+          "source_day": 106,
+          "topic": "Computer Networks — Subnetting, routing, TCP and protocol mixed set"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+      "life_quest": "Communication: explain one concept aloud in 2 minutes.",
+      "weekly_review": false,
+      "end_of_day_check": true,
+      "full_mock": false
+    },
+    {
+      "day": 114,
+      "date_label": "Mon, 01 Feb 2027",
+      "learning": "All subjects — Final formula/algorithm sheet, error-log reattempts and light confidence quiz",
+      "revision_subject": "GA — Analytical: deduction, induction, analogies and numerical relations",
+      "ga_mini_set": "Analytical: deduction, induction, analogies and numerical relations; 5 questions (10–15 minutes).",
+      "rnr_due": [
+        {
+          "source_day": 113,
+          "topic": "Mixed CS — Repair the 5 lowest-accuracy topics from all subjects"
+        },
+        {
+          "source_day": 110,
+          "topic": "DBMS + OS — Transactions/serializability plus scheduling/synchronisation mixed set"
+        },
+        {
+          "source_day": 107,
+          "topic": "Compiler Design — FIRST/FOLLOW, parsing, intermediate code and data-flow mixed set"
+        }
+      ],
+      "sets": {
+        "P": 0,
+        "R": 20,
+        "E": 20
+      },
+      "set_ranges": {},
+      "sets_source_text": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+      "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+      "life_quest": "Career: inspect one role and list its required skills.",
+      "weekly_review": true,
+      "end_of_day_check": true,
+      "full_mock": false
+    }
+  ]
+}

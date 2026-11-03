@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/notif_frame_bg"
+    android:padding="18dp">
+
+    <ImageView android:id="@+id/corner_tl" android:layout_width="16dp" android:layout_height="16dp"
+        android:layout_alignParentTop="true" android:layout_alignParentStart="true"
+        android:src="@drawable/ic_corner_bracket" />
+    <ImageView android:id="@+id/corner_tr" android:layout_width="16dp" android:layout_height="16dp"
+        android:layout_alignParentTop="true" android:layout_alignParentEnd="true"
+        android:rotation="90" android:src="@drawable/ic_corner_bracket" />
+    <ImageView android:id="@+id/corner_bl" android:layout_width="16dp" android:layout_height="16dp"
+        android:layout_alignParentBottom="true" android:layout_alignParentStart="true"
+        android:rotation="270" android:src="@drawable/ic_corner_bracket" />
+    <ImageView android:id="@+id/corner_br" android:layout_width="16dp" android:layout_height="16dp"
+        android:layout_alignParentBottom="true" android:layout_alignParentEnd="true"
+        android:rotation="180" android:src="@drawable/ic_corner_bracket" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="4dp"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal" android:gravity="center_vertical">
+            <TextView
+                android:layout_width="18dp"
+                android:layout_height="18dp"
+                android:gravity="center"
+                android:text="!"
+                android:textColor="#BDF3FF"
+                android:textStyle="bold"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/notif_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="NOTIFICATION"
+                android:textColor="#D9FAFF"
+                android:textSize="12sp"
+                android:letterSpacing="0.18"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/notif_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:text="SYSTEM"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/notif_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Message"
+            android:textColor="#7FE3FF"
+            android:textSize="13sp"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/notif_app_row"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="GATE SYSTEM"
+            android:textColor="#5FB8D6"
+            android:textSize="10sp"
+            android:letterSpacing="0.1" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,13 @@
+{
+  "name": "gate-ai2027-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Thin, dependency-free AI proxy for the GATE Solo Leveling AI 2027 Android app. Holds the AI provider key; the app never sees it.",
+  "main": "server.js",
+  "engines": { "node": ">=18.17" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ORIGINAL artwork: a glowing dungeon gate with a hooded hunter silhouette. No third-party assets. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- outer gate arch -->
+    <path android:strokeColor="#27E6FF" android:strokeWidth="3" android:fillColor="#00000000"
+        android:pathData="M30,82 L30,50 C30,34 40,26 54,26 C68,26 78,34 78,50 L78,82" />
+    <!-- inner arch glow -->
+    <path android:strokeColor="#8A4DFF" android:strokeWidth="2" android:fillColor="#00000000"
+        android:pathData="M37,82 L37,52 C37,40 44,33 54,33 C64,33 71,40 71,52 L71,82" />
+    <!-- portal fill -->
+    <path android:fillColor="#220E4DFF"
+        android:pathData="M37,82 L37,52 C37,40 44,33 54,33 C64,33 71,40 71,52 L71,82 Z" />
+    <!-- hooded hunter silhouette -->
+    <path android:fillColor="#05070D"
+        android:pathData="M54,46 C49,46 46,50 46,55 C46,58 47,60 49,62 L44,82 L64,82 L59,62 C61,60 62,58 62,55 C62,50 59,46 54,46 Z" />
+    <!-- glowing eyes -->
+    <path android:fillColor="#27E6FF" android:pathData="M50.5,54 L53,54.8 L53,56 L50.5,55.4 Z" />
+    <path android:fillColor="#27E6FF" android:pathData="M57.5,54 L55,54.8 L55,56 L57.5,55.4 Z" />
+    <!-- base line -->
+    <path android:strokeColor="#27E6FF" android:strokeWidth="2" android:fillColor="#00000000" android:pathData="M24,82 L84,82" />
+</vector>

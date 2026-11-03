@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GATE System AI 2027</string>
+    <string name="today_quest_short">Quest</string>
+    <string name="today_quest_long">Open todays quest</string>
+</resources>

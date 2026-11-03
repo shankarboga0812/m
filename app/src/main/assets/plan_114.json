@@ -1,0 +1,5024 @@
+{
+ "source": "GATE CS 2027 — 114-Day Transformation Plan.docx",
+ "start": "2026-10-11",
+ "end": "2027-02-01",
+ "mockDays": [
+  14,
+  21,
+  28,
+  35,
+  42,
+  49,
+  56,
+  63,
+  70,
+  77,
+  81,
+  85,
+  89,
+  93,
+  97,
+  100,
+  103,
+  106,
+  109,
+  112
+ ],
+ "days": [
+  {
+   "day": 1,
+   "weekday": "Sun",
+   "date": "2026-10-11",
+   "fullMock": false,
+   "due": [],
+   "dueNote": "No earlier learning topic due; begin the Error Monster list.",
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Discrete logic: propositions, connectives, truth tables, tautology/contradiction",
+   "revisionSubject": "DL",
+   "revisionTopic": "Number systems, conversions and binary arithmetic",
+   "gaTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 2,
+   "weekday": "Mon",
+   "date": "2026-10-12",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 1,
+     "subject": "Engineering Mathematics",
+     "topic": "Discrete logic: propositions, connectives, truth tables, tautology/contradiction"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Alphabets, strings, languages and regular expressions",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Stacks, queues, circular queues and deques",
+   "gaTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 3,
+   "weekday": "Tue",
+   "date": "2026-10-13",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 2,
+     "subject": "Theory of Computation",
+     "topic": "Alphabets, strings, languages and regular expressions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "Layering principles; OSI and TCP/IP models",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Relational algebra and tuple relational calculus",
+   "gaTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 4,
+   "weekday": "Wed",
+   "date": "2026-10-14",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 3,
+     "subject": "Computer Networks",
+     "topic": "Layering principles; OSI and TCP/IP models"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Compiler architecture: front end, middle end, back end",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 5,
+   "weekday": "Thu",
+   "date": "2026-10-15",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 4,
+     "subject": "Compiler Design",
+     "topic": "Compiler architecture: front end, middle end, back end"
+    },
+    {
+     "fromDay": 1,
+     "subject": "Engineering Mathematics",
+     "topic": "Discrete logic: propositions, connectives, truth tables, tautology/contradiction"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "C data types, operators, precedence and expressions",
+   "revisionSubject": "COA",
+   "revisionTopic": "Memory interfacing and memory hierarchy",
+   "gaTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 6,
+   "weekday": "Fri",
+   "date": "2026-10-16",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 5,
+     "subject": "C Programming",
+     "topic": "C data types, operators, precedence and expressions"
+    },
+    {
+     "fromDay": 2,
+     "subject": "Theory of Computation",
+     "topic": "Alphabets, strings, languages and regular expressions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Asymptotic analysis: O, Omega, Theta; best/average/worst cases",
+   "revisionSubject": "GA",
+   "revisionTopic": "Quant: permutations, combinations and number series",
+   "gaTopic": "Quant: permutations, combinations and number series",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 7,
+   "weekday": "Sat",
+   "date": "2026-10-17",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 6,
+     "subject": "Algorithms",
+     "topic": "Asymptotic analysis: O, Omega, Theta; best/average/worst cases"
+    },
+    {
+     "fromDay": 3,
+     "subject": "Computer Networks",
+     "topic": "Layering principles; OSI and TCP/IP models"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Logic: equivalence, implication, inference, predicates and quantifiers",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Recursion and C/DSA output tracing",
+   "gaTopic": "Quant: estimation and mensuration",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 8,
+   "weekday": "Sun",
+   "date": "2026-10-18",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 7,
+     "subject": "Engineering Mathematics",
+     "topic": "Logic: equivalence, implication, inference, predicates and quantifiers"
+    },
+    {
+     "fromDay": 4,
+     "subject": "Compiler Design",
+     "topic": "Compiler architecture: front end, middle end, back end"
+    },
+    {
+     "fromDay": 1,
+     "subject": "Engineering Mathematics",
+     "topic": "Discrete logic: propositions, connectives, truth tables, tautology/contradiction"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Regular languages and DFA construction",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Lossless join and dependency preservation",
+   "gaTopic": "Quant: geometry, elementary statistics and probability",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 9,
+   "weekday": "Mon",
+   "date": "2026-10-19",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 8,
+     "subject": "Theory of Computation",
+     "topic": "Regular languages and DFA construction"
+    },
+    {
+     "fromDay": 5,
+     "subject": "C Programming",
+     "topic": "C data types, operators, precedence and expressions"
+    },
+    {
+     "fromDay": 2,
+     "subject": "Theory of Computation",
+     "topic": "Alphabets, strings, languages and regular expressions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "Circuit, packet and virtual-circuit switching",
+   "revisionSubject": "DL",
+   "revisionTopic": "Registers, counters, state tables/diagrams",
+   "gaTopic": "Quant: data interpretation, tables and charts",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 10,
+   "weekday": "Tue",
+   "date": "2026-10-20",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 9,
+     "subject": "Computer Networks",
+     "topic": "Circuit, packet and virtual-circuit switching"
+    },
+    {
+     "fromDay": 6,
+     "subject": "Algorithms",
+     "topic": "Asymptotic analysis: O, Omega, Theta; best/average/worst cases"
+    },
+    {
+     "fromDay": 3,
+     "subject": "Computer Networks",
+     "topic": "Layering principles; OSI and TCP/IP models"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Lexical analysis: tokens, patterns, lexemes and regular expressions",
+   "revisionSubject": "OS",
+   "revisionTopic": "Virtual memory and page replacement",
+   "gaTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 11,
+   "weekday": "Wed",
+   "date": "2026-10-21",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 10,
+     "subject": "Compiler Design",
+     "topic": "Lexical analysis: tokens, patterns, lexemes and regular expressions"
+    },
+    {
+     "fromDay": 7,
+     "subject": "Engineering Mathematics",
+     "topic": "Logic: equivalence, implication, inference, predicates and quantifiers"
+    },
+    {
+     "fromDay": 4,
+     "subject": "Compiler Design",
+     "topic": "Compiler architecture: front end, middle end, back end"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "Conditional statements, loops and control flow",
+   "revisionSubject": "COA",
+   "revisionTopic": "Instruction formats, instruction sets and addressing modes",
+   "gaTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 12,
+   "weekday": "Thu",
+   "date": "2026-10-22",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 11,
+     "subject": "C Programming",
+     "topic": "Conditional statements, loops and control flow"
+    },
+    {
+     "fromDay": 8,
+     "subject": "Theory of Computation",
+     "topic": "Regular languages and DFA construction"
+    },
+    {
+     "fromDay": 5,
+     "subject": "C Programming",
+     "topic": "C data types, operators, precedence and expressions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Time/space complexity and operation counting",
+   "revisionSubject": "GA",
+   "revisionTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 13,
+   "weekday": "Fri",
+   "date": "2026-10-23",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 12,
+     "subject": "Algorithms",
+     "topic": "Time/space complexity and operation counting"
+    },
+    {
+     "fromDay": 9,
+     "subject": "Computer Networks",
+     "topic": "Circuit, packet and virtual-circuit switching"
+    },
+    {
+     "fromDay": 6,
+     "subject": "Algorithms",
+     "topic": "Asymptotic analysis: O, Omega, Theta; best/average/worst cases"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Sets, Cartesian products, relations and relation properties",
+   "revisionSubject": "DL",
+   "revisionTopic": "Floating-point and fixed-point representation",
+   "gaTopic": "Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 12 questions from due 147 reviews and old-subject mistakes; E = 8 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 12,
+   "setRMax": null,
+   "setE": 8,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 14,
+   "weekday": "Sat",
+   "date": "2026-10-24",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 13,
+     "subject": "Engineering Mathematics",
+     "topic": "Sets, Cartesian products, relations and relation properties"
+    },
+    {
+     "fromDay": 10,
+     "subject": "Compiler Design",
+     "topic": "Lexical analysis: tokens, patterns, lexemes and regular expressions"
+    },
+    {
+     "fromDay": 7,
+     "subject": "Engineering Mathematics",
+     "topic": "Logic: equivalence, implication, inference, predicates and quantifiers"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "NFA, epsilon-NFA and conversions",
+   "revisionSubject": "DSA",
+   "revisionTopic": "BST operations, skewed BST and complexity",
+   "gaTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 15,
+   "weekday": "Sun",
+   "date": "2026-10-25",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 14,
+     "subject": "Theory of Computation",
+     "topic": "NFA, epsilon-NFA and conversions"
+    },
+    {
+     "fromDay": 11,
+     "subject": "C Programming",
+     "topic": "Conditional statements, loops and control flow"
+    },
+    {
+     "fromDay": 8,
+     "subject": "Theory of Computation",
+     "topic": "Regular languages and DFA construction"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "Bandwidth, delay, throughput and performance calculations",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Functional dependencies and attribute closure",
+   "gaTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 16,
+   "weekday": "Mon",
+   "date": "2026-10-26",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 15,
+     "subject": "Computer Networks",
+     "topic": "Bandwidth, delay, throughput and performance calculations"
+    },
+    {
+     "fromDay": 12,
+     "subject": "Algorithms",
+     "topic": "Time/space complexity and operation counting"
+    },
+    {
+     "fromDay": 9,
+     "subject": "Computer Networks",
+     "topic": "Circuit, packet and virtual-circuit switching"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Finite automata for scanners and lexical errors",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 17,
+   "weekday": "Tue",
+   "date": "2026-10-27",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 16,
+     "subject": "Compiler Design",
+     "topic": "Finite automata for scanners and lexical errors"
+    },
+    {
+     "fromDay": 13,
+     "subject": "Engineering Mathematics",
+     "topic": "Sets, Cartesian products, relations and relation properties"
+    },
+    {
+     "fromDay": 10,
+     "subject": "Compiler Design",
+     "topic": "Lexical analysis: tokens, patterns, lexemes and regular expressions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "Functions, scope, storage classes and linkage",
+   "revisionSubject": "COA",
+   "revisionTopic": "Cache replacement/write policies and performance",
+   "gaTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 18,
+   "weekday": "Wed",
+   "date": "2026-10-28",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 17,
+     "subject": "C Programming",
+     "topic": "Functions, scope, storage classes and linkage"
+    },
+    {
+     "fromDay": 14,
+     "subject": "Theory of Computation",
+     "topic": "NFA, epsilon-NFA and conversions"
+    },
+    {
+     "fromDay": 11,
+     "subject": "C Programming",
+     "topic": "Conditional statements, loops and control flow"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Recurrences: substitution, recursion tree and Master theorem",
+   "revisionSubject": "GA",
+   "revisionTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 19,
+   "weekday": "Thu",
+   "date": "2026-10-29",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 18,
+     "subject": "Algorithms",
+     "topic": "Recurrences: substitution, recursion tree and Master theorem"
+    },
+    {
+     "fromDay": 15,
+     "subject": "Computer Networks",
+     "topic": "Bandwidth, delay, throughput and performance calculations"
+    },
+    {
+     "fromDay": 12,
+     "subject": "Algorithms",
+     "topic": "Time/space complexity and operation counting"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Equivalence relations/classes; partial orders, Hasse diagrams and lattices",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Sorting stability, in-place properties and complexity",
+   "gaTopic": "Quant: permutations, combinations and number series",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 20,
+   "weekday": "Fri",
+   "date": "2026-10-30",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 19,
+     "subject": "Engineering Mathematics",
+     "topic": "Equivalence relations/classes; partial orders, Hasse diagrams and lattices"
+    },
+    {
+     "fromDay": 16,
+     "subject": "Compiler Design",
+     "topic": "Finite automata for scanners and lexical errors"
+    },
+    {
+     "fromDay": 13,
+     "subject": "Engineering Mathematics",
+     "topic": "Sets, Cartesian products, relations and relation properties"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "NFA-to-DFA subset construction and equivalence",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Transactions, ACID, serializability and locking",
+   "gaTopic": "Quant: estimation and mensuration",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 21,
+   "weekday": "Sat",
+   "date": "2026-10-31",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 20,
+     "subject": "Theory of Computation",
+     "topic": "NFA-to-DFA subset construction and equivalence"
+    },
+    {
+     "fromDay": 17,
+     "subject": "C Programming",
+     "topic": "Functions, scope, storage classes and linkage"
+    },
+    {
+     "fromDay": 14,
+     "subject": "Theory of Computation",
+     "topic": "NFA, epsilon-NFA and conversions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Computer Networks",
+   "learnTopic": "Data-link framing, error detection, checksums and CRC",
+   "revisionSubject": "DL",
+   "revisionTopic": "Number systems, conversions and binary arithmetic",
+   "gaTopic": "Quant: geometry, elementary statistics and probability",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 22,
+   "weekday": "Sun",
+   "date": "2026-11-01",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 21,
+     "subject": "Computer Networks",
+     "topic": "Data-link framing, error detection, checksums and CRC"
+    },
+    {
+     "fromDay": 18,
+     "subject": "Algorithms",
+     "topic": "Recurrences: substitution, recursion tree and Master theorem"
+    },
+    {
+     "fromDay": 15,
+     "subject": "Computer Networks",
+     "topic": "Bandwidth, delay, throughput and performance calculations"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Parsing fundamentals, derivations and parse trees",
+   "revisionSubject": "OS",
+   "revisionTopic": "Virtual memory and page replacement",
+   "gaTopic": "Quant: data interpretation, tables and charts",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 23,
+   "weekday": "Mon",
+   "date": "2026-11-02",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 22,
+     "subject": "Compiler Design",
+     "topic": "Parsing fundamentals, derivations and parse trees"
+    },
+    {
+     "fromDay": 19,
+     "subject": "Engineering Mathematics",
+     "topic": "Equivalence relations/classes; partial orders, Hasse diagrams and lattices"
+    },
+    {
+     "fromDay": 16,
+     "subject": "Compiler Design",
+     "topic": "Finite automata for scanners and lexical errors"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "Pointers: address/dereference and pointer arithmetic",
+   "revisionSubject": "COA",
+   "revisionTopic": "ALU design and arithmetic operations",
+   "gaTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 24,
+   "weekday": "Tue",
+   "date": "2026-11-03",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 23,
+     "subject": "C Programming",
+     "topic": "Pointers: address/dereference and pointer arithmetic"
+    },
+    {
+     "fromDay": 20,
+     "subject": "Theory of Computation",
+     "topic": "NFA-to-DFA subset construction and equivalence"
+    },
+    {
+     "fromDay": 17,
+     "subject": "C Programming",
+     "topic": "Functions, scope, storage classes and linkage"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Linear/binary search, correctness and complexity",
+   "revisionSubject": "GA",
+   "revisionTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 25,
+   "weekday": "Wed",
+   "date": "2026-11-04",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 24,
+     "subject": "Algorithms",
+     "topic": "Linear/binary search, correctness and complexity"
+    },
+    {
+     "fromDay": 21,
+     "subject": "Computer Networks",
+     "topic": "Data-link framing, error detection, checksums and CRC"
+    },
+    {
+     "fromDay": 18,
+     "subject": "Algorithms",
+     "topic": "Recurrences: substitution, recursion tree and Master theorem"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Functions: injective, surjective, bijective, composition and inverses",
+   "revisionSubject": "DL",
+   "revisionTopic": "K-maps and tabular minimization",
+   "gaTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 26,
+   "weekday": "Thu",
+   "date": "2026-11-05",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 25,
+     "subject": "Engineering Mathematics",
+     "topic": "Functions: injective, surjective, bijective, composition and inverses"
+    },
+    {
+     "fromDay": 22,
+     "subject": "Compiler Design",
+     "topic": "Parsing fundamentals, derivations and parse trees"
+    },
+    {
+     "fromDay": 19,
+     "subject": "Engineering Mathematics",
+     "topic": "Equivalence relations/classes; partial orders, Hasse diagrams and lattices"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Automata minimisation and regular-language closure properties",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Graph representations, BFS and DFS",
+   "gaTopic": "Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 27,
+   "weekday": "Fri",
+   "date": "2026-11-06",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 26,
+     "subject": "Theory of Computation",
+     "topic": "Automata minimisation and regular-language closure properties"
+    },
+    {
+     "fromDay": 23,
+     "subject": "C Programming",
+     "topic": "Pointers: address/dereference and pointer arithmetic"
+    },
+    {
+     "fromDay": 20,
+     "subject": "Theory of Computation",
+     "topic": "NFA-to-DFA subset construction and equivalence"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "MAC protocols and Ethernet",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "3NF, BCNF and decomposition",
+   "gaTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 28,
+   "weekday": "Sat",
+   "date": "2026-11-07",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 27,
+     "subject": "Computer Networks",
+     "topic": "MAC protocols and Ethernet"
+    },
+    {
+     "fromDay": 24,
+     "subject": "Algorithms",
+     "topic": "Linear/binary search, correctness and complexity"
+    },
+    {
+     "fromDay": 21,
+     "subject": "Computer Networks",
+     "topic": "Data-link framing, error detection, checksums and CRC"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Compiler Design",
+   "learnTopic": "FIRST and FOLLOW sets",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 29,
+   "weekday": "Sun",
+   "date": "2026-11-08",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 28,
+     "subject": "Compiler Design",
+     "topic": "FIRST and FOLLOW sets"
+    },
+    {
+     "fromDay": 25,
+     "subject": "Engineering Mathematics",
+     "topic": "Functions: injective, surjective, bijective, composition and inverses"
+    },
+    {
+     "fromDay": 22,
+     "subject": "Compiler Design",
+     "topic": "Parsing fundamentals, derivations and parse trees"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "Arrays, strings and pointer-array relationships",
+   "revisionSubject": "COA",
+   "revisionTopic": "I/O interfaces, interrupts and DMA",
+   "gaTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 30,
+   "weekday": "Mon",
+   "date": "2026-11-09",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 29,
+     "subject": "C Programming",
+     "topic": "Arrays, strings and pointer-array relationships"
+    },
+    {
+     "fromDay": 26,
+     "subject": "Theory of Computation",
+     "topic": "Automata minimisation and regular-language closure properties"
+    },
+    {
+     "fromDay": 23,
+     "subject": "C Programming",
+     "topic": "Pointers: address/dereference and pointer arithmetic"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Comparison sorting, lower bounds and stability",
+   "revisionSubject": "GA",
+   "revisionTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 31,
+   "weekday": "Tue",
+   "date": "2026-11-10",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 30,
+     "subject": "Algorithms",
+     "topic": "Comparison sorting, lower bounds and stability"
+    },
+    {
+     "fromDay": 27,
+     "subject": "Computer Networks",
+     "topic": "MAC protocols and Ethernet"
+    },
+    {
+     "fromDay": 24,
+     "subject": "Algorithms",
+     "topic": "Linear/binary search, correctness and complexity"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Algebraic structures: binary operations, closure, associativity, identity, monoids/groups",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Arrays, linked lists and operation complexity",
+   "gaTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 32,
+   "weekday": "Wed",
+   "date": "2026-11-11",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 31,
+     "subject": "Engineering Mathematics",
+     "topic": "Algebraic structures: binary operations, closure, associativity, identity, monoids/groups"
+    },
+    {
+     "fromDay": 28,
+     "subject": "Compiler Design",
+     "topic": "FIRST and FOLLOW sets"
+    },
+    {
+     "fromDay": 25,
+     "subject": "Engineering Mathematics",
+     "topic": "Functions: injective, surjective, bijective, composition and inverses"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Pumping lemma for regular languages",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Relational model, keys and integrity constraints",
+   "gaTopic": "Quant: permutations, combinations and number series",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 33,
+   "weekday": "Thu",
+   "date": "2026-11-12",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 32,
+     "subject": "Theory of Computation",
+     "topic": "Pumping lemma for regular languages"
+    },
+    {
+     "fromDay": 29,
+     "subject": "C Programming",
+     "topic": "Arrays, strings and pointer-array relationships"
+    },
+    {
+     "fromDay": 26,
+     "subject": "Theory of Computation",
+     "topic": "Automata minimisation and regular-language closure properties"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "Switching and forwarding basics",
+   "revisionSubject": "DL",
+   "revisionTopic": "Floating-point and fixed-point representation",
+   "gaTopic": "Quant: estimation and mensuration",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 34,
+   "weekday": "Fri",
+   "date": "2026-11-13",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 33,
+     "subject": "Computer Networks",
+     "topic": "Switching and forwarding basics"
+    },
+    {
+     "fromDay": 30,
+     "subject": "Algorithms",
+     "topic": "Comparison sorting, lower bounds and stability"
+    },
+    {
+     "fromDay": 27,
+     "subject": "Computer Networks",
+     "topic": "MAC protocols and Ethernet"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Top-down parsing and LL(1) table construction",
+   "revisionSubject": "OS",
+   "revisionTopic": "Virtual memory and page replacement",
+   "gaTopic": "Quant: geometry, elementary statistics and probability",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 35,
+   "weekday": "Sat",
+   "date": "2026-11-14",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 34,
+     "subject": "Compiler Design",
+     "topic": "Top-down parsing and LL(1) table construction"
+    },
+    {
+     "fromDay": 31,
+     "subject": "Engineering Mathematics",
+     "topic": "Algebraic structures: binary operations, closure, associativity, identity, monoids/groups"
+    },
+    {
+     "fromDay": 28,
+     "subject": "Compiler Design",
+     "topic": "FIRST and FOLLOW sets"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "C Programming",
+   "learnTopic": "Structures, unions, enums and alignment basics",
+   "revisionSubject": "COA",
+   "revisionTopic": "Memory interfacing and memory hierarchy",
+   "gaTopic": "Quant: data interpretation, tables and charts",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 36,
+   "weekday": "Sun",
+   "date": "2026-11-15",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 35,
+     "subject": "C Programming",
+     "topic": "Structures, unions, enums and alignment basics"
+    },
+    {
+     "fromDay": 32,
+     "subject": "Theory of Computation",
+     "topic": "Pumping lemma for regular languages"
+    },
+    {
+     "fromDay": 29,
+     "subject": "C Programming",
+     "topic": "Arrays, strings and pointer-array relationships"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Merge sort and quicksort analysis",
+   "revisionSubject": "GA",
+   "revisionTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 37,
+   "weekday": "Mon",
+   "date": "2026-11-16",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 36,
+     "subject": "Algorithms",
+     "topic": "Merge sort and quicksort analysis"
+    },
+    {
+     "fromDay": 33,
+     "subject": "Computer Networks",
+     "topic": "Switching and forwarding basics"
+    },
+    {
+     "fromDay": 30,
+     "subject": "Algorithms",
+     "topic": "Comparison sorting, lower bounds and stability"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Graph theory: degree, paths, cycles, components and connectivity",
+   "revisionSubject": "DL",
+   "revisionTopic": "Comparators and circuit design",
+   "gaTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 38,
+   "weekday": "Tue",
+   "date": "2026-11-17",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 37,
+     "subject": "Engineering Mathematics",
+     "topic": "Graph theory: degree, paths, cycles, components and connectivity"
+    },
+    {
+     "fromDay": 34,
+     "subject": "Compiler Design",
+     "topic": "Top-down parsing and LL(1) table construction"
+    },
+    {
+     "fromDay": 31,
+     "subject": "Engineering Mathematics",
+     "topic": "Algebraic structures: binary operations, closure, associativity, identity, monoids/groups"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "CFG basics, derivations and parse trees",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Hashing and collision resolution",
+   "gaTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 39,
+   "weekday": "Wed",
+   "date": "2026-11-18",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 38,
+     "subject": "Theory of Computation",
+     "topic": "CFG basics, derivations and parse trees"
+    },
+    {
+     "fromDay": 35,
+     "subject": "C Programming",
+     "topic": "Structures, unions, enums and alignment basics"
+    },
+    {
+     "fromDay": 32,
+     "subject": "Theory of Computation",
+     "topic": "Pumping lemma for regular languages"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "Distance-vector routing and Bellman-Ford intuition",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "File organisation, indexing, B-trees/B+ trees",
+   "gaTopic": "Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 40,
+   "weekday": "Thu",
+   "date": "2026-11-19",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 39,
+     "subject": "Computer Networks",
+     "topic": "Distance-vector routing and Bellman-Ford intuition"
+    },
+    {
+     "fromDay": 36,
+     "subject": "Algorithms",
+     "topic": "Merge sort and quicksort analysis"
+    },
+    {
+     "fromDay": 33,
+     "subject": "Computer Networks",
+     "topic": "Switching and forwarding basics"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Bottom-up parsing, handles and viable prefixes",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 41,
+   "weekday": "Fri",
+   "date": "2026-11-20",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 40,
+     "subject": "Compiler Design",
+     "topic": "Bottom-up parsing, handles and viable prefixes"
+    },
+    {
+     "fromDay": 37,
+     "subject": "Engineering Mathematics",
+     "topic": "Graph theory: degree, paths, cycles, components and connectivity"
+    },
+    {
+     "fromDay": 34,
+     "subject": "Compiler Design",
+     "topic": "Top-down parsing and LL(1) table construction"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "Dynamic memory allocation: malloc/calloc/realloc/free",
+   "revisionSubject": "COA",
+   "revisionTopic": "Instruction formats, instruction sets and addressing modes",
+   "gaTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 15 questions on today's learning topic; R = 15 questions from due 147 reviews and old-subject mistakes; E = 10 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 15,
+   "setR": 15,
+   "setRMax": null,
+   "setE": 10,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 42,
+   "weekday": "Sat",
+   "date": "2026-11-21",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 41,
+     "subject": "C Programming",
+     "topic": "Dynamic memory allocation: malloc/calloc/realloc/free"
+    },
+    {
+     "fromDay": 38,
+     "subject": "Theory of Computation",
+     "topic": "CFG basics, derivations and parse trees"
+    },
+    {
+     "fromDay": 35,
+     "subject": "C Programming",
+     "topic": "Structures, unions, enums and alignment basics"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Algorithms",
+   "learnTopic": "Heap sort, heaps and priority queues",
+   "revisionSubject": "GA",
+   "revisionTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 43,
+   "weekday": "Sun",
+   "date": "2026-11-22",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 42,
+     "subject": "Algorithms",
+     "topic": "Heap sort, heaps and priority queues"
+    },
+    {
+     "fromDay": 39,
+     "subject": "Computer Networks",
+     "topic": "Distance-vector routing and Bellman-Ford intuition"
+    },
+    {
+     "fromDay": 36,
+     "subject": "Algorithms",
+     "topic": "Merge sort and quicksort analysis"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Trees, spanning trees, bipartite graphs, matching and colouring",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Trees, traversals and binary-tree properties",
+   "gaTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 44,
+   "weekday": "Mon",
+   "date": "2026-11-23",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 43,
+     "subject": "Engineering Mathematics",
+     "topic": "Trees, spanning trees, bipartite graphs, matching and colouring"
+    },
+    {
+     "fromDay": 40,
+     "subject": "Compiler Design",
+     "topic": "Bottom-up parsing, handles and viable prefixes"
+    },
+    {
+     "fromDay": 37,
+     "subject": "Engineering Mathematics",
+     "topic": "Graph theory: degree, paths, cycles, components and connectivity"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Ambiguous grammars and grammar simplification",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "SQL joins, grouping and nested queries",
+   "gaTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 45,
+   "weekday": "Tue",
+   "date": "2026-11-24",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 44,
+     "subject": "Theory of Computation",
+     "topic": "Ambiguous grammars and grammar simplification"
+    },
+    {
+     "fromDay": 41,
+     "subject": "C Programming",
+     "topic": "Dynamic memory allocation: malloc/calloc/realloc/free"
+    },
+    {
+     "fromDay": 38,
+     "subject": "Theory of Computation",
+     "topic": "CFG basics, derivations and parse trees"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "Link-state routing and Dijkstra intuition",
+   "revisionSubject": "DL",
+   "revisionTopic": "K-maps and tabular minimization",
+   "gaTopic": "Quant: permutations, combinations and number series",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 46,
+   "weekday": "Wed",
+   "date": "2026-11-25",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 45,
+     "subject": "Computer Networks",
+     "topic": "Link-state routing and Dijkstra intuition"
+    },
+    {
+     "fromDay": 42,
+     "subject": "Algorithms",
+     "topic": "Heap sort, heaps and priority queues"
+    },
+    {
+     "fromDay": 39,
+     "subject": "Computer Networks",
+     "topic": "Distance-vector routing and Bellman-Ford intuition"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "LR parsing concepts; SLR, LR(1) and LALR distinctions",
+   "revisionSubject": "OS",
+   "revisionTopic": "Virtual memory and page replacement",
+   "gaTopic": "Quant: estimation and mensuration",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 47,
+   "weekday": "Thu",
+   "date": "2026-11-26",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 46,
+     "subject": "Compiler Design",
+     "topic": "LR parsing concepts; SLR, LR(1) and LALR distinctions"
+    },
+    {
+     "fromDay": 43,
+     "subject": "Engineering Mathematics",
+     "topic": "Trees, spanning trees, bipartite graphs, matching and colouring"
+    },
+    {
+     "fromDay": 40,
+     "subject": "Compiler Design",
+     "topic": "Bottom-up parsing, handles and viable prefixes"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "Recursion, call stack and tracing",
+   "revisionSubject": "COA",
+   "revisionTopic": "Cache replacement/write policies and performance",
+   "gaTopic": "Quant: geometry, elementary statistics and probability",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 48,
+   "weekday": "Fri",
+   "date": "2026-11-27",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 47,
+     "subject": "C Programming",
+     "topic": "Recursion, call stack and tracing"
+    },
+    {
+     "fromDay": 44,
+     "subject": "Theory of Computation",
+     "topic": "Ambiguous grammars and grammar simplification"
+    },
+    {
+     "fromDay": 41,
+     "subject": "C Programming",
+     "topic": "Dynamic memory allocation: malloc/calloc/realloc/free"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Hashing and collision resolution",
+   "revisionSubject": "GA",
+   "revisionTopic": "Quant: data interpretation, tables and charts",
+   "gaTopic": "Quant: data interpretation, tables and charts",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 49,
+   "weekday": "Sat",
+   "date": "2026-11-28",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 48,
+     "subject": "Algorithms",
+     "topic": "Hashing and collision resolution"
+    },
+    {
+     "fromDay": 45,
+     "subject": "Computer Networks",
+     "topic": "Link-state routing and Dijkstra intuition"
+    },
+    {
+     "fromDay": 42,
+     "subject": "Algorithms",
+     "topic": "Heap sort, heaps and priority queues"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Combinatorics: sum/product rules, permutations, combinations, pigeonhole principle",
+   "revisionSubject": "DL",
+   "revisionTopic": "Registers, counters, state tables/diagrams",
+   "gaTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 50,
+   "weekday": "Sun",
+   "date": "2026-11-29",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 49,
+     "subject": "Engineering Mathematics",
+     "topic": "Combinatorics: sum/product rules, permutations, combinations, pigeonhole principle"
+    },
+    {
+     "fromDay": 46,
+     "subject": "Compiler Design",
+     "topic": "LR parsing concepts; SLR, LR(1) and LALR distinctions"
+    },
+    {
+     "fromDay": 43,
+     "subject": "Engineering Mathematics",
+     "topic": "Trees, spanning trees, bipartite graphs, matching and colouring"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Chomsky Normal Form and conversions",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Mixed DSA PYQs and error-log reattempt",
+   "gaTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 51,
+   "weekday": "Mon",
+   "date": "2026-11-30",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 50,
+     "subject": "Theory of Computation",
+     "topic": "Chomsky Normal Form and conversions"
+    },
+    {
+     "fromDay": 47,
+     "subject": "C Programming",
+     "topic": "Recursion, call stack and tracing"
+    },
+    {
+     "fromDay": 44,
+     "subject": "Theory of Computation",
+     "topic": "Ambiguous grammars and grammar simplification"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "IPv4 addressing, subnetting and CIDR",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "ER model and ER-to-relational mapping",
+   "gaTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 52,
+   "weekday": "Tue",
+   "date": "2026-12-01",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 51,
+     "subject": "Computer Networks",
+     "topic": "IPv4 addressing, subnetting and CIDR"
+    },
+    {
+     "fromDay": 48,
+     "subject": "Algorithms",
+     "topic": "Hashing and collision resolution"
+    },
+    {
+     "fromDay": 45,
+     "subject": "Computer Networks",
+     "topic": "Link-state routing and Dijkstra intuition"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Syntax-directed definitions and translation",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 53,
+   "weekday": "Wed",
+   "date": "2026-12-02",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 52,
+     "subject": "Compiler Design",
+     "topic": "Syntax-directed definitions and translation"
+    },
+    {
+     "fromDay": 49,
+     "subject": "Engineering Mathematics",
+     "topic": "Combinatorics: sum/product rules, permutations, combinations, pigeonhole principle"
+    },
+    {
+     "fromDay": 46,
+     "subject": "Compiler Design",
+     "topic": "LR parsing concepts; SLR, LR(1) and LALR distinctions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "C output prediction: precedence, side effects and tricky expressions",
+   "revisionSubject": "COA",
+   "revisionTopic": "ALU design and arithmetic operations",
+   "gaTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 54,
+   "weekday": "Thu",
+   "date": "2026-12-03",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 53,
+     "subject": "C Programming",
+     "topic": "C output prediction: precedence, side effects and tricky expressions"
+    },
+    {
+     "fromDay": 50,
+     "subject": "Theory of Computation",
+     "topic": "Chomsky Normal Form and conversions"
+    },
+    {
+     "fromDay": 47,
+     "subject": "C Programming",
+     "topic": "Recursion, call stack and tracing"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Divide-and-conquer design and recurrence practice",
+   "revisionSubject": "GA",
+   "revisionTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 55,
+   "weekday": "Fri",
+   "date": "2026-12-04",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 54,
+     "subject": "Algorithms",
+     "topic": "Divide-and-conquer design and recurrence practice"
+    },
+    {
+     "fromDay": 51,
+     "subject": "Computer Networks",
+     "topic": "IPv4 addressing, subnetting and CIDR"
+    },
+    {
+     "fromDay": 48,
+     "subject": "Algorithms",
+     "topic": "Hashing and collision resolution"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Inclusion-exclusion, recurrence relations and generating functions",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Binary heaps and priority queues",
+   "gaTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 56,
+   "weekday": "Sat",
+   "date": "2026-12-05",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 55,
+     "subject": "Engineering Mathematics",
+     "topic": "Inclusion-exclusion, recurrence relations and generating functions"
+    },
+    {
+     "fromDay": 52,
+     "subject": "Compiler Design",
+     "topic": "Syntax-directed definitions and translation"
+    },
+    {
+     "fromDay": 49,
+     "subject": "Engineering Mathematics",
+     "topic": "Combinatorics: sum/product rules, permutations, combinations, pigeonhole principle"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Pushdown automata and context-free languages",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Candidate keys and normalization",
+   "gaTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 57,
+   "weekday": "Sun",
+   "date": "2026-12-06",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 56,
+     "subject": "Theory of Computation",
+     "topic": "Pushdown automata and context-free languages"
+    },
+    {
+     "fromDay": 53,
+     "subject": "C Programming",
+     "topic": "C output prediction: precedence, side effects and tricky expressions"
+    },
+    {
+     "fromDay": 50,
+     "subject": "Theory of Computation",
+     "topic": "Chomsky Normal Form and conversions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "IPv4 fragmentation and MTU calculations",
+   "revisionSubject": "DL",
+   "revisionTopic": "Comparators and circuit design",
+   "gaTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 58,
+   "weekday": "Mon",
+   "date": "2026-12-07",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 57,
+     "subject": "Computer Networks",
+     "topic": "IPv4 fragmentation and MTU calculations"
+    },
+    {
+     "fromDay": 54,
+     "subject": "Algorithms",
+     "topic": "Divide-and-conquer design and recurrence practice"
+    },
+    {
+     "fromDay": 51,
+     "subject": "Computer Networks",
+     "topic": "IPv4 addressing, subnetting and CIDR"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Intermediate representations and three-address code",
+   "revisionSubject": "OS",
+   "revisionTopic": "Virtual memory and page replacement",
+   "gaTopic": "Quant: permutations, combinations and number series",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 59,
+   "weekday": "Tue",
+   "date": "2026-12-08",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 58,
+     "subject": "Compiler Design",
+     "topic": "Intermediate representations and three-address code"
+    },
+    {
+     "fromDay": 55,
+     "subject": "Engineering Mathematics",
+     "topic": "Inclusion-exclusion, recurrence relations and generating functions"
+    },
+    {
+     "fromDay": 52,
+     "subject": "Compiler Design",
+     "topic": "Syntax-directed definitions and translation"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "Mixed C problems: pointers, recursion, arrays and memory",
+   "revisionSubject": "COA",
+   "revisionTopic": "I/O interfaces, interrupts and DMA",
+   "gaTopic": "Quant: estimation and mensuration",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 60,
+   "weekday": "Wed",
+   "date": "2026-12-09",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 59,
+     "subject": "C Programming",
+     "topic": "Mixed C problems: pointers, recursion, arrays and memory"
+    },
+    {
+     "fromDay": 56,
+     "subject": "Theory of Computation",
+     "topic": "Pushdown automata and context-free languages"
+    },
+    {
+     "fromDay": 53,
+     "subject": "C Programming",
+     "topic": "C output prediction: precedence, side effects and tricky expressions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Greedy algorithms: activity selection and correctness",
+   "revisionSubject": "GA",
+   "revisionTopic": "Quant: geometry, elementary statistics and probability",
+   "gaTopic": "Quant: geometry, elementary statistics and probability",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 61,
+   "weekday": "Thu",
+   "date": "2026-12-10",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 60,
+     "subject": "Algorithms",
+     "topic": "Greedy algorithms: activity selection and correctness"
+    },
+    {
+     "fromDay": 57,
+     "subject": "Computer Networks",
+     "topic": "IPv4 fragmentation and MTU calculations"
+    },
+    {
+     "fromDay": 54,
+     "subject": "Algorithms",
+     "topic": "Divide-and-conquer design and recurrence practice"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Linear algebra: matrix operations, types, transpose, inverse, determinants",
+   "revisionSubject": "DL",
+   "revisionTopic": "Number systems, conversions and binary arithmetic",
+   "gaTopic": "Quant: data interpretation, tables and charts",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 62,
+   "weekday": "Fri",
+   "date": "2026-12-11",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 61,
+     "subject": "Engineering Mathematics",
+     "topic": "Linear algebra: matrix operations, types, transpose, inverse, determinants"
+    },
+    {
+     "fromDay": 58,
+     "subject": "Compiler Design",
+     "topic": "Intermediate representations and three-address code"
+    },
+    {
+     "fromDay": 55,
+     "subject": "Engineering Mathematics",
+     "topic": "Inclusion-exclusion, recurrence relations and generating functions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Pumping lemma for context-free languages",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Stacks, queues, circular queues and deques",
+   "gaTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 63,
+   "weekday": "Sat",
+   "date": "2026-12-12",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 62,
+     "subject": "Theory of Computation",
+     "topic": "Pumping lemma for context-free languages"
+    },
+    {
+     "fromDay": 59,
+     "subject": "C Programming",
+     "topic": "Mixed C problems: pointers, recursion, arrays and memory"
+    },
+    {
+     "fromDay": 56,
+     "subject": "Theory of Computation",
+     "topic": "Pushdown automata and context-free languages"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Computer Networks",
+   "learnTopic": "NAT and address translation",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Relational algebra and tuple relational calculus",
+   "gaTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 64,
+   "weekday": "Sun",
+   "date": "2026-12-13",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 63,
+     "subject": "Computer Networks",
+     "topic": "NAT and address translation"
+    },
+    {
+     "fromDay": 60,
+     "subject": "Algorithms",
+     "topic": "Greedy algorithms: activity selection and correctness"
+    },
+    {
+     "fromDay": 57,
+     "subject": "Computer Networks",
+     "topic": "IPv4 fragmentation and MTU calculations"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Quadruples, triples and indirect triples",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 65,
+   "weekday": "Mon",
+   "date": "2026-12-14",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 64,
+     "subject": "Compiler Design",
+     "topic": "Quadruples, triples and indirect triples"
+    },
+    {
+     "fromDay": 61,
+     "subject": "Engineering Mathematics",
+     "topic": "Linear algebra: matrix operations, types, transpose, inverse, determinants"
+    },
+    {
+     "fromDay": 58,
+     "subject": "Compiler Design",
+     "topic": "Intermediate representations and three-address code"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Dynamic programming: states, transitions and memoisation",
+   "revisionSubject": "COA",
+   "revisionTopic": "Memory interfacing and memory hierarchy",
+   "gaTopic": "Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 66,
+   "weekday": "Tue",
+   "date": "2026-12-15",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 65,
+     "subject": "Algorithms",
+     "topic": "Dynamic programming: states, transitions and memoisation"
+    },
+    {
+     "fromDay": 62,
+     "subject": "Theory of Computation",
+     "topic": "Pumping lemma for context-free languages"
+    },
+    {
+     "fromDay": 59,
+     "subject": "C Programming",
+     "topic": "Mixed C problems: pointers, recursion, arrays and memory"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Rank, systems of linear equations, consistency and Gaussian elimination",
+   "revisionSubject": "GA",
+   "revisionTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 67,
+   "weekday": "Wed",
+   "date": "2026-12-16",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 66,
+     "subject": "Engineering Mathematics",
+     "topic": "Rank, systems of linear equations, consistency and Gaussian elimination"
+    },
+    {
+     "fromDay": 63,
+     "subject": "Computer Networks",
+     "topic": "NAT and address translation"
+    },
+    {
+     "fromDay": 60,
+     "subject": "Algorithms",
+     "topic": "Greedy algorithms: activity selection and correctness"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Turing machine models and configurations",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Recursion and C/DSA output tracing",
+   "gaTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 68,
+   "weekday": "Thu",
+   "date": "2026-12-17",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 67,
+     "subject": "Theory of Computation",
+     "topic": "Turing machine models and configurations"
+    },
+    {
+     "fromDay": 64,
+     "subject": "Compiler Design",
+     "topic": "Quadruples, triples and indirect triples"
+    },
+    {
+     "fromDay": 61,
+     "subject": "Engineering Mathematics",
+     "topic": "Linear algebra: matrix operations, types, transpose, inverse, determinants"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "TCP fundamentals, sequence and acknowledgement numbers",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Lossless join and dependency preservation",
+   "gaTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 69,
+   "weekday": "Fri",
+   "date": "2026-12-18",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 68,
+     "subject": "Computer Networks",
+     "topic": "TCP fundamentals, sequence and acknowledgement numbers"
+    },
+    {
+     "fromDay": 65,
+     "subject": "Algorithms",
+     "topic": "Dynamic programming: states, transitions and memoisation"
+    },
+    {
+     "fromDay": 62,
+     "subject": "Theory of Computation",
+     "topic": "Pumping lemma for context-free languages"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Runtime environments, activation records and parameter passing",
+   "revisionSubject": "DL",
+   "revisionTopic": "Registers, counters, state tables/diagrams",
+   "gaTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 70,
+   "weekday": "Sat",
+   "date": "2026-12-19",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 69,
+     "subject": "Compiler Design",
+     "topic": "Runtime environments, activation records and parameter passing"
+    },
+    {
+     "fromDay": 66,
+     "subject": "Engineering Mathematics",
+     "topic": "Rank, systems of linear equations, consistency and Gaussian elimination"
+    },
+    {
+     "fromDay": 63,
+     "subject": "Computer Networks",
+     "topic": "NAT and address translation"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Algorithms",
+   "learnTopic": "LCS and 0/1 knapsack",
+   "revisionSubject": "OS",
+   "revisionTopic": "Virtual memory and page replacement",
+   "gaTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 71,
+   "weekday": "Sun",
+   "date": "2026-12-20",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 70,
+     "subject": "Algorithms",
+     "topic": "LCS and 0/1 knapsack"
+    },
+    {
+     "fromDay": 67,
+     "subject": "Theory of Computation",
+     "topic": "Turing machine models and configurations"
+    },
+    {
+     "fromDay": 64,
+     "subject": "Compiler Design",
+     "topic": "Quadruples, triples and indirect triples"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Eigenvalues, eigenvectors, characteristic polynomial and LU decomposition",
+   "revisionSubject": "COA",
+   "revisionTopic": "Instruction formats, instruction sets and addressing modes",
+   "gaTopic": "Quant: permutations, combinations and number series",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 72,
+   "weekday": "Mon",
+   "date": "2026-12-21",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 71,
+     "subject": "Engineering Mathematics",
+     "topic": "Eigenvalues, eigenvectors, characteristic polynomial and LU decomposition"
+    },
+    {
+     "fromDay": 68,
+     "subject": "Computer Networks",
+     "topic": "TCP fundamentals, sequence and acknowledgement numbers"
+    },
+    {
+     "fromDay": 65,
+     "subject": "Algorithms",
+     "topic": "Dynamic programming: states, transitions and memoisation"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Decidability, undecidability and halting problem",
+   "revisionSubject": "GA",
+   "revisionTopic": "Quant: estimation and mensuration",
+   "gaTopic": "Quant: estimation and mensuration",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 73,
+   "weekday": "Tue",
+   "date": "2026-12-22",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 72,
+     "subject": "Theory of Computation",
+     "topic": "Decidability, undecidability and halting problem"
+    },
+    {
+     "fromDay": 69,
+     "subject": "Compiler Design",
+     "topic": "Runtime environments, activation records and parameter passing"
+    },
+    {
+     "fromDay": 66,
+     "subject": "Engineering Mathematics",
+     "topic": "Rank, systems of linear equations, consistency and Gaussian elimination"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "TCP flow control and window calculations",
+   "revisionSubject": "DL",
+   "revisionTopic": "Floating-point and fixed-point representation",
+   "gaTopic": "Quant: geometry, elementary statistics and probability",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 74,
+   "weekday": "Wed",
+   "date": "2026-12-23",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 73,
+     "subject": "Computer Networks",
+     "topic": "TCP flow control and window calculations"
+    },
+    {
+     "fromDay": 70,
+     "subject": "Algorithms",
+     "topic": "LCS and 0/1 knapsack"
+    },
+    {
+     "fromDay": 67,
+     "subject": "Theory of Computation",
+     "topic": "Turing machine models and configurations"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Basic blocks and control-flow graphs",
+   "revisionSubject": "DSA",
+   "revisionTopic": "BST operations, skewed BST and complexity",
+   "gaTopic": "Quant: data interpretation, tables and charts",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 75,
+   "weekday": "Thu",
+   "date": "2026-12-24",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 74,
+     "subject": "Compiler Design",
+     "topic": "Basic blocks and control-flow graphs"
+    },
+    {
+     "fromDay": 71,
+     "subject": "Engineering Mathematics",
+     "topic": "Eigenvalues, eigenvectors, characteristic polynomial and LU decomposition"
+    },
+    {
+     "fromDay": 68,
+     "subject": "Computer Networks",
+     "topic": "TCP fundamentals, sequence and acknowledgement numbers"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "BFS, DFS, graph representations and complexity",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Functional dependencies and attribute closure",
+   "gaTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 76,
+   "weekday": "Fri",
+   "date": "2026-12-25",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 75,
+     "subject": "Algorithms",
+     "topic": "BFS, DFS, graph representations and complexity"
+    },
+    {
+     "fromDay": 72,
+     "subject": "Theory of Computation",
+     "topic": "Decidability, undecidability and halting problem"
+    },
+    {
+     "fromDay": 69,
+     "subject": "Compiler Design",
+     "topic": "Runtime environments, activation records and parameter passing"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Calculus: limits, continuity, differentiability and derivative rules",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 12 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 12 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 12,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 12,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 77,
+   "weekday": "Sat",
+   "date": "2026-12-26",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 76,
+     "subject": "Engineering Mathematics",
+     "topic": "Calculus: limits, continuity, differentiability and derivative rules"
+    },
+    {
+     "fromDay": 73,
+     "subject": "Computer Networks",
+     "topic": "TCP flow control and window calculations"
+    },
+    {
+     "fromDay": 70,
+     "subject": "Algorithms",
+     "topic": "LCS and 0/1 knapsack"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "weekly mock. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Undecidability reductions and mixed TOC problems",
+   "revisionSubject": "COA",
+   "revisionTopic": "Cache replacement/write policies and performance",
+   "gaTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 78,
+   "weekday": "Sun",
+   "date": "2026-12-27",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 77,
+     "subject": "Theory of Computation",
+     "topic": "Undecidability reductions and mixed TOC problems"
+    },
+    {
+     "fromDay": 74,
+     "subject": "Compiler Design",
+     "topic": "Basic blocks and control-flow graphs"
+    },
+    {
+     "fromDay": 71,
+     "subject": "Engineering Mathematics",
+     "topic": "Eigenvalues, eigenvectors, characteristic polynomial and LU decomposition"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "TCP congestion control",
+   "revisionSubject": "GA",
+   "revisionTopic": "Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+   "gaTopic": "Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 79,
+   "weekday": "Mon",
+   "date": "2026-12-28",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 78,
+     "subject": "Computer Networks",
+     "topic": "TCP congestion control"
+    },
+    {
+     "fromDay": 75,
+     "subject": "Algorithms",
+     "topic": "BFS, DFS, graph representations and complexity"
+    },
+    {
+     "fromDay": 72,
+     "subject": "Theory of Computation",
+     "topic": "Decidability, undecidability and halting problem"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Local optimisation and common subexpression elimination",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Sorting stability, in-place properties and complexity",
+   "gaTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 80,
+   "weekday": "Tue",
+   "date": "2026-12-29",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 79,
+     "subject": "Compiler Design",
+     "topic": "Local optimisation and common subexpression elimination"
+    },
+    {
+     "fromDay": 76,
+     "subject": "Engineering Mathematics",
+     "topic": "Calculus: limits, continuity, differentiability and derivative rules"
+    },
+    {
+     "fromDay": 73,
+     "subject": "Computer Networks",
+     "topic": "TCP flow control and window calculations"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Topological sorting and DAG applications",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Transactions, ACID, serializability and locking",
+   "gaTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 81,
+   "weekday": "Wed",
+   "date": "2026-12-30",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 80,
+     "subject": "Algorithms",
+     "topic": "Topological sorting and DAG applications"
+    },
+    {
+     "fromDay": 77,
+     "subject": "Theory of Computation",
+     "topic": "Undecidability reductions and mixed TOC problems"
+    },
+    {
+     "fromDay": 74,
+     "subject": "Compiler Design",
+     "topic": "Basic blocks and control-flow graphs"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": "about 2/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Chain rule, implicit differentiation, partial and total derivatives",
+   "revisionSubject": "DL",
+   "revisionTopic": "Number systems, conversions and binary arithmetic",
+   "gaTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question."
+  },
+  {
+   "day": 82,
+   "weekday": "Thu",
+   "date": "2026-12-31",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 81,
+     "subject": "Engineering Mathematics",
+     "topic": "Chain rule, implicit differentiation, partial and total derivatives"
+    },
+    {
+     "fromDay": 78,
+     "subject": "Computer Networks",
+     "topic": "TCP congestion control"
+    },
+    {
+     "fromDay": 75,
+     "subject": "Algorithms",
+     "topic": "BFS, DFS, graph representations and complexity"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "UDP, socket API and client-server concepts",
+   "revisionSubject": "OS",
+   "revisionTopic": "Virtual memory and page replacement",
+   "gaTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 83,
+   "weekday": "Fri",
+   "date": "2027-01-01",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 82,
+     "subject": "Computer Networks",
+     "topic": "UDP, socket API and client-server concepts"
+    },
+    {
+     "fromDay": 79,
+     "subject": "Compiler Design",
+     "topic": "Local optimisation and common subexpression elimination"
+    },
+    {
+     "fromDay": 76,
+     "subject": "Engineering Mathematics",
+     "topic": "Calculus: limits, continuity, differentiability and derivative rules"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Constant propagation and liveness analysis",
+   "revisionSubject": "COA",
+   "revisionTopic": "ALU design and arithmetic operations",
+   "gaTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 84,
+   "weekday": "Sat",
+   "date": "2027-01-02",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 83,
+     "subject": "Compiler Design",
+     "topic": "Constant propagation and liveness analysis"
+    },
+    {
+     "fromDay": 80,
+     "subject": "Algorithms",
+     "topic": "Topological sorting and DAG applications"
+    },
+    {
+     "fromDay": 77,
+     "subject": "Theory of Computation",
+     "topic": "Undecidability reductions and mixed TOC problems"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Minimum spanning trees: Prim and Kruskal",
+   "revisionSubject": "GA",
+   "revisionTopic": "Quant: permutations, combinations and number series",
+   "gaTopic": "Quant: permutations, combinations and number series",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 85,
+   "weekday": "Sun",
+   "date": "2027-01-03",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 84,
+     "subject": "Algorithms",
+     "topic": "Minimum spanning trees: Prim and Kruskal"
+    },
+    {
+     "fromDay": 81,
+     "subject": "Engineering Mathematics",
+     "topic": "Chain rule, implicit differentiation, partial and total derivatives"
+    },
+    {
+     "fromDay": 78,
+     "subject": "Computer Networks",
+     "topic": "TCP congestion control"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": "about 2/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Maxima/minima, Rolle's theorem and Mean Value Theorem",
+   "revisionSubject": "DL",
+   "revisionTopic": "K-maps and tabular minimization",
+   "gaTopic": "Quant: estimation and mensuration",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes."
+  },
+  {
+   "day": 86,
+   "weekday": "Mon",
+   "date": "2027-01-04",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 85,
+     "subject": "Engineering Mathematics",
+     "topic": "Maxima/minima, Rolle's theorem and Mean Value Theorem"
+    },
+    {
+     "fromDay": 82,
+     "subject": "Computer Networks",
+     "topic": "UDP, socket API and client-server concepts"
+    },
+    {
+     "fromDay": 79,
+     "subject": "Compiler Design",
+     "topic": "Local optimisation and common subexpression elimination"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "DNS, HTTP and application-layer basics",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Graph representations, BFS and DFS",
+   "gaTopic": "Quant: geometry, elementary statistics and probability",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 87,
+   "weekday": "Tue",
+   "date": "2027-01-05",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 86,
+     "subject": "Computer Networks",
+     "topic": "DNS, HTTP and application-layer basics"
+    },
+    {
+     "fromDay": 83,
+     "subject": "Compiler Design",
+     "topic": "Constant propagation and liveness analysis"
+    },
+    {
+     "fromDay": 80,
+     "subject": "Algorithms",
+     "topic": "Topological sorting and DAG applications"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "Data-flow analysis and mixed compiler problems",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "3NF, BCNF and decomposition",
+   "gaTopic": "Quant: data interpretation, tables and charts",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 88,
+   "weekday": "Wed",
+   "date": "2027-01-06",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 87,
+     "subject": "Compiler Design",
+     "topic": "Data-flow analysis and mixed compiler problems"
+    },
+    {
+     "fromDay": 84,
+     "subject": "Algorithms",
+     "topic": "Minimum spanning trees: Prim and Kruskal"
+    },
+    {
+     "fromDay": 81,
+     "subject": "Engineering Mathematics",
+     "topic": "Chain rule, implicit differentiation, partial and total derivatives"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Shortest paths: Dijkstra and Bellman-Ford",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 89,
+   "weekday": "Thu",
+   "date": "2027-01-07",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 88,
+     "subject": "Algorithms",
+     "topic": "Shortest paths: Dijkstra and Bellman-Ford"
+    },
+    {
+     "fromDay": 85,
+     "subject": "Engineering Mathematics",
+     "topic": "Maxima/minima, Rolle's theorem and Mean Value Theorem"
+    },
+    {
+     "fromDay": 82,
+     "subject": "Computer Networks",
+     "topic": "UDP, socket API and client-server concepts"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": "about 2/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Indefinite/definite integration and standard techniques",
+   "revisionSubject": "COA",
+   "revisionTopic": "I/O interfaces, interrupts and DMA",
+   "gaTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics."
+  },
+  {
+   "day": 90,
+   "weekday": "Fri",
+   "date": "2027-01-08",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 89,
+     "subject": "Engineering Mathematics",
+     "topic": "Indefinite/definite integration and standard techniques"
+    },
+    {
+     "fromDay": 86,
+     "subject": "Computer Networks",
+     "topic": "DNS, HTTP and application-layer basics"
+    },
+    {
+     "fromDay": 83,
+     "subject": "Compiler Design",
+     "topic": "Constant propagation and liveness analysis"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Computer Networks",
+   "learnTopic": "CN mixed numericals and weak-topic repair",
+   "revisionSubject": "GA",
+   "revisionTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 91,
+   "weekday": "Sat",
+   "date": "2027-01-09",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 90,
+     "subject": "Computer Networks",
+     "topic": "CN mixed numericals and weak-topic repair"
+    },
+    {
+     "fromDay": 87,
+     "subject": "Compiler Design",
+     "topic": "Data-flow analysis and mixed compiler problems"
+    },
+    {
+     "fromDay": 84,
+     "subject": "Algorithms",
+     "topic": "Minimum spanning trees: Prim and Kruskal"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Floyd-Warshall and all-pairs shortest paths",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Arrays, linked lists and operation complexity",
+   "gaTopic": "Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 92,
+   "weekday": "Sun",
+   "date": "2027-01-10",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 91,
+     "subject": "Algorithms",
+     "topic": "Floyd-Warshall and all-pairs shortest paths"
+    },
+    {
+     "fromDay": 88,
+     "subject": "Algorithms",
+     "topic": "Shortest paths: Dijkstra and Bellman-Ford"
+    },
+    {
+     "fromDay": 85,
+     "subject": "Engineering Mathematics",
+     "topic": "Maxima/minima, Rolle's theorem and Mean Value Theorem"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Probability: sample spaces, events, rules, conditional probability and independence",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "Relational model, keys and integrity constraints",
+   "gaTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 93,
+   "weekday": "Mon",
+   "date": "2027-01-11",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 92,
+     "subject": "Engineering Mathematics",
+     "topic": "Probability: sample spaces, events, rules, conditional probability and independence"
+    },
+    {
+     "fromDay": 89,
+     "subject": "Engineering Mathematics",
+     "topic": "Indefinite/definite integration and standard techniques"
+    },
+    {
+     "fromDay": 86,
+     "subject": "Computer Networks",
+     "topic": "DNS, HTTP and application-layer basics"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": "about 2/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Algorithms",
+   "learnTopic": "Disjoint sets: union-find, union by rank and path compression",
+   "revisionSubject": "DL",
+   "revisionTopic": "Floating-point and fixed-point representation",
+   "gaTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills."
+  },
+  {
+   "day": 94,
+   "weekday": "Tue",
+   "date": "2027-01-12",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 93,
+     "subject": "Algorithms",
+     "topic": "Disjoint sets: union-find, union by rank and path compression"
+    },
+    {
+     "fromDay": 90,
+     "subject": "Computer Networks",
+     "topic": "CN mixed numericals and weak-topic repair"
+    },
+    {
+     "fromDay": 87,
+     "subject": "Compiler Design",
+     "topic": "Data-flow analysis and mixed compiler problems"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Bayes' theorem and random variables: PMF, PDF, CDF",
+   "revisionSubject": "OS",
+   "revisionTopic": "Virtual memory and page replacement",
+   "gaTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 95,
+   "weekday": "Wed",
+   "date": "2027-01-13",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 94,
+     "subject": "Engineering Mathematics",
+     "topic": "Bayes' theorem and random variables: PMF, PDF, CDF"
+    },
+    {
+     "fromDay": 91,
+     "subject": "Algorithms",
+     "topic": "Floyd-Warshall and all-pairs shortest paths"
+    },
+    {
+     "fromDay": 88,
+     "subject": "Algorithms",
+     "topic": "Shortest paths: Dijkstra and Bellman-Ford"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Mixed algorithms: complexity, greedy, DP, graphs and shortest paths",
+   "revisionSubject": "COA",
+   "revisionTopic": "Memory interfacing and memory hierarchy",
+   "gaTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 96,
+   "weekday": "Thu",
+   "date": "2027-01-14",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 95,
+     "subject": "Algorithms",
+     "topic": "Mixed algorithms: complexity, greedy, DP, graphs and shortest paths"
+    },
+    {
+     "fromDay": 92,
+     "subject": "Engineering Mathematics",
+     "topic": "Probability: sample spaces, events, rules, conditional probability and independence"
+    },
+    {
+     "fromDay": 89,
+     "subject": "Engineering Mathematics",
+     "topic": "Indefinite/definite integration and standard techniques"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Expectation, moments, mean, median, mode, variance and standard deviation",
+   "revisionSubject": "GA",
+   "revisionTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 97,
+   "weekday": "Fri",
+   "date": "2027-01-15",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 96,
+     "subject": "Engineering Mathematics",
+     "topic": "Expectation, moments, mean, median, mode, variance and standard deviation"
+    },
+    {
+     "fromDay": 93,
+     "subject": "Algorithms",
+     "topic": "Disjoint sets: union-find, union by rank and path compression"
+    },
+    {
+     "fromDay": 90,
+     "subject": "Computer Networks",
+     "topic": "CN mixed numericals and weak-topic repair"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": "about 2/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Uniform and binomial distributions",
+   "revisionSubject": "DL",
+   "revisionTopic": "Comparators and circuit design",
+   "gaTopic": "Quant: permutations, combinations and number series",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note."
+  },
+  {
+   "day": 98,
+   "weekday": "Sat",
+   "date": "2027-01-16",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 97,
+     "subject": "Engineering Mathematics",
+     "topic": "Uniform and binomial distributions"
+    },
+    {
+     "fromDay": 94,
+     "subject": "Engineering Mathematics",
+     "topic": "Bayes' theorem and random variables: PMF, PDF, CDF"
+    },
+    {
+     "fromDay": 91,
+     "subject": "Algorithms",
+     "topic": "Floyd-Warshall and all-pairs shortest paths"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Poisson, exponential and normal distributions",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Hashing and collision resolution",
+   "gaTopic": "Quant: estimation and mensuration",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 8 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 15 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 8,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 15,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 99,
+   "weekday": "Sun",
+   "date": "2027-01-17",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 98,
+     "subject": "Engineering Mathematics",
+     "topic": "Poisson, exponential and normal distributions"
+    },
+    {
+     "fromDay": 95,
+     "subject": "Algorithms",
+     "topic": "Mixed algorithms: complexity, greedy, DP, graphs and shortest paths"
+    },
+    {
+     "fromDay": 92,
+     "subject": "Engineering Mathematics",
+     "topic": "Probability: sample spaces, events, rules, conditional probability and independence"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Discrete mathematics mixed hard problems",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "File organisation, indexing, B-trees/B+ trees",
+   "gaTopic": "Quant: geometry, elementary statistics and probability",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 100,
+   "weekday": "Mon",
+   "date": "2027-01-18",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 99,
+     "subject": "Engineering Mathematics",
+     "topic": "Discrete mathematics mixed hard problems"
+    },
+    {
+     "fromDay": 96,
+     "subject": "Engineering Mathematics",
+     "topic": "Expectation, moments, mean, median, mode, variance and standard deviation"
+    },
+    {
+     "fromDay": 93,
+     "subject": "Algorithms",
+     "topic": "Disjoint sets: union-find, union by rank and path compression"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": "up to 3/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Linear algebra mixed hard problems",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Quant: data interpretation, tables and charts",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills."
+  },
+  {
+   "day": 101,
+   "weekday": "Tue",
+   "date": "2027-01-19",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 100,
+     "subject": "Engineering Mathematics",
+     "topic": "Linear algebra mixed hard problems"
+    },
+    {
+     "fromDay": 97,
+     "subject": "Engineering Mathematics",
+     "topic": "Uniform and binomial distributions"
+    },
+    {
+     "fromDay": 94,
+     "subject": "Engineering Mathematics",
+     "topic": "Bayes' theorem and random variables: PMF, PDF, CDF"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Calculus mixed hard problems",
+   "revisionSubject": "COA",
+   "revisionTopic": "Instruction formats, instruction sets and addressing modes",
+   "gaTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 102,
+   "weekday": "Wed",
+   "date": "2027-01-20",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 101,
+     "subject": "Engineering Mathematics",
+     "topic": "Calculus mixed hard problems"
+    },
+    {
+     "fromDay": 98,
+     "subject": "Engineering Mathematics",
+     "topic": "Poisson, exponential and normal distributions"
+    },
+    {
+     "fromDay": 95,
+     "subject": "Algorithms",
+     "topic": "Mixed algorithms: complexity, greedy, DP, graphs and shortest paths"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Probability/statistics mixed hard problems",
+   "revisionSubject": "GA",
+   "revisionTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaTopic": "Analytical: logical patterns and numerical reasoning",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 103,
+   "weekday": "Thu",
+   "date": "2027-01-21",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 102,
+     "subject": "Engineering Mathematics",
+     "topic": "Probability/statistics mixed hard problems"
+    },
+    {
+     "fromDay": 99,
+     "subject": "Engineering Mathematics",
+     "topic": "Discrete mathematics mixed hard problems"
+    },
+    {
+     "fromDay": 96,
+     "subject": "Engineering Mathematics",
+     "topic": "Expectation, moments, mean, median, mode, variance and standard deviation"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": "up to 3/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Engineering Mathematics",
+   "learnTopic": "Mixed maths diagnostic: discrete + linear algebra; repair 3 weakest subtopics",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Trees, traversals and binary-tree properties",
+   "gaTopic": "Spatial: rotation, reflection, scaling and translation",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics."
+  },
+  {
+   "day": 104,
+   "weekday": "Fri",
+   "date": "2027-01-22",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 103,
+     "subject": "Engineering Mathematics",
+     "topic": "Mixed maths diagnostic: discrete + linear algebra; repair 3 weakest subtopics"
+    },
+    {
+     "fromDay": 100,
+     "subject": "Engineering Mathematics",
+     "topic": "Linear algebra mixed hard problems"
+    },
+    {
+     "fromDay": 97,
+     "subject": "Engineering Mathematics",
+     "topic": "Uniform and binomial distributions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "C Programming",
+   "learnTopic": "C output tracing and pointer/recursion repair",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "SQL joins, grouping and nested queries",
+   "gaTopic": "Spatial: grouping, paper folding/cutting and 2D/3D patterns",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 105,
+   "weekday": "Sat",
+   "date": "2027-01-23",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 104,
+     "subject": "C Programming",
+     "topic": "C output tracing and pointer/recursion repair"
+    },
+    {
+     "fromDay": 101,
+     "subject": "Engineering Mathematics",
+     "topic": "Calculus mixed hard problems"
+    },
+    {
+     "fromDay": 98,
+     "subject": "Engineering Mathematics",
+     "topic": "Poisson, exponential and normal distributions"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": null,
+   "learnSubject": "Theory of Computation",
+   "learnTopic": "Automata, CFG/PDA and decidability mixed set",
+   "revisionSubject": "DL",
+   "revisionTopic": "K-maps and tabular minimization",
+   "gaTopic": "Verbal: parts of speech, articles and subject–verb agreement",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 106,
+   "weekday": "Sun",
+   "date": "2027-01-24",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 105,
+     "subject": "Theory of Computation",
+     "topic": "Automata, CFG/PDA and decidability mixed set"
+    },
+    {
+     "fromDay": 102,
+     "subject": "Engineering Mathematics",
+     "topic": "Probability/statistics mixed hard problems"
+    },
+    {
+     "fromDay": 99,
+     "subject": "Engineering Mathematics",
+     "topic": "Discrete mathematics mixed hard problems"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": "up to 3/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "Computer Networks",
+   "learnTopic": "Subnetting, routing, TCP and protocol mixed set",
+   "revisionSubject": "OS",
+   "revisionTopic": "Virtual memory and page replacement",
+   "gaTopic": "Verbal: tenses, verb forms, prepositions and conjunctions",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes."
+  },
+  {
+   "day": 107,
+   "weekday": "Mon",
+   "date": "2027-01-25",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 106,
+     "subject": "Computer Networks",
+     "topic": "Subnetting, routing, TCP and protocol mixed set"
+    },
+    {
+     "fromDay": 103,
+     "subject": "Engineering Mathematics",
+     "topic": "Mixed maths diagnostic: discrete + linear algebra; repair 3 weakest subtopics"
+    },
+    {
+     "fromDay": 100,
+     "subject": "Engineering Mathematics",
+     "topic": "Linear algebra mixed hard problems"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Compiler Design",
+   "learnTopic": "FIRST/FOLLOW, parsing, intermediate code and data-flow mixed set",
+   "revisionSubject": "COA",
+   "revisionTopic": "Cache replacement/write policies and performance",
+   "gaTopic": "Verbal: vocabulary, synonyms/antonyms and idioms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 108,
+   "weekday": "Tue",
+   "date": "2027-01-26",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 107,
+     "subject": "Compiler Design",
+     "topic": "FIRST/FOLLOW, parsing, intermediate code and data-flow mixed set"
+    },
+    {
+     "fromDay": 104,
+     "subject": "C Programming",
+     "topic": "C output tracing and pointer/recursion repair"
+    },
+    {
+     "fromDay": 101,
+     "subject": "Engineering Mathematics",
+     "topic": "Calculus mixed hard problems"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Algorithms",
+   "learnTopic": "Complexity, sorting, greedy, DP and graph algorithms mixed set",
+   "revisionSubject": "GA",
+   "revisionTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaTopic": "Verbal: reading comprehension and sentence ordering",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Money",
+   "lifeTask": "record spending and make a weekly budget.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 109,
+   "weekday": "Wed",
+   "date": "2027-01-27",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 108,
+     "subject": "Algorithms",
+     "topic": "Complexity, sorting, greedy, DP and graph algorithms mixed set"
+    },
+    {
+     "fromDay": 105,
+     "subject": "Theory of Computation",
+     "topic": "Automata, CFG/PDA and decidability mixed set"
+    },
+    {
+     "fromDay": 102,
+     "subject": "Engineering Mathematics",
+     "topic": "Probability/statistics mixed hard problems"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": "up to 3/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "DSA + Algorithms",
+   "learnTopic": "Cross-topic trees, graphs, heaps, union-find and complexity",
+   "revisionSubject": "DL",
+   "revisionTopic": "Registers, counters, state tables/diagrams",
+   "gaTopic": "Quant: ratios, percentages, powers, exponents and logarithms",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up",
+   "lifeCategory": "Social",
+   "lifeTask": "initiate one respectful conversation or ask a thoughtful question."
+  },
+  {
+   "day": 110,
+   "weekday": "Thu",
+   "date": "2027-01-28",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 109,
+     "subject": "DSA + Algorithms",
+     "topic": "Cross-topic trees, graphs, heaps, union-find and complexity"
+    },
+    {
+     "fromDay": 106,
+     "subject": "Computer Networks",
+     "topic": "Subnetting, routing, TCP and protocol mixed set"
+    },
+    {
+     "fromDay": 103,
+     "subject": "Engineering Mathematics",
+     "topic": "Mixed maths diagnostic: discrete + linear algebra; repair 3 weakest subtopics"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "DBMS + OS",
+   "learnTopic": "Transactions/serializability plus scheduling/synchronisation mixed set",
+   "revisionSubject": "DSA",
+   "revisionTopic": "Mixed DSA PYQs and error-log reattempt",
+   "gaTopic": "Quant: permutations, combinations and number series",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Digital safety",
+   "lifeTask": "passwords, scams and privacy basics.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 111,
+   "weekday": "Fri",
+   "date": "2027-01-29",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 110,
+     "subject": "DBMS + OS",
+     "topic": "Transactions/serializability plus scheduling/synchronisation mixed set"
+    },
+    {
+     "fromDay": 107,
+     "subject": "Compiler Design",
+     "topic": "FIRST/FOLLOW, parsing, intermediate code and data-flow mixed set"
+    },
+    {
+     "fromDay": 104,
+     "subject": "C Programming",
+     "topic": "C output tracing and pointer/recursion repair"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "DL + COA",
+   "learnTopic": "Representation, Boolean minimisation, cache and pipeline numericals",
+   "revisionSubject": "DBMS",
+   "revisionTopic": "ER model and ER-to-relational mapping",
+   "gaTopic": "Quant: estimation and mensuration",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Legs + abs; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "improve one resume bullet or portfolio note.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 112,
+   "weekday": "Sat",
+   "date": "2027-01-30",
+   "fullMock": true,
+   "due": [
+    {
+     "fromDay": 111,
+     "subject": "DL + COA",
+     "topic": "Representation, Boolean minimisation, cache and pipeline numericals"
+    },
+    {
+     "fromDay": 108,
+     "subject": "Algorithms",
+     "topic": "Complexity, sorting, greedy, DP and graph algorithms mixed set"
+    },
+    {
+     "fromDay": 105,
+     "subject": "Theory of Computation",
+     "topic": "Automata, CFG/PDA and decidability mixed set"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": "up to 3/week. Record score, accuracy, time left, attempted questions, unattempted easy questions and top three recurring errors.",
+   "learnSubject": "General Aptitude",
+   "learnTopic": "Full GA timed practice: verbal, quant, analytical and spatial",
+   "revisionSubject": "OS",
+   "revisionTopic": "Mutexes, semaphores and monitors",
+   "gaTopic": "Quant: geometry, elementary statistics and probability",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 5 warm-up questions on today's topic; R = 10–15 due/error-log questions; E = full 65-question, 100-mark, 180-minute mock. Analyse for 45–60 minutes and tag each lost mark: concept / calculation / misread / time / guess.",
+   "setP": 5,
+   "setR": 10,
+   "setRMax": 15,
+   "setE": null,
+   "mockQuestions": 65,
+   "mockMarks": 100,
+   "mockMinutes": 180,
+   "workout": "Rest / easy walk / mobility; no hard training",
+   "lifeCategory": "Reflection",
+   "lifeTask": "journal wins, blockers and one next action."
+  },
+  {
+   "day": 113,
+   "weekday": "Sun",
+   "date": "2027-01-31",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 112,
+     "subject": "General Aptitude",
+     "topic": "Full GA timed practice: verbal, quant, analytical and spatial"
+    },
+    {
+     "fromDay": 109,
+     "subject": "DSA + Algorithms",
+     "topic": "Cross-topic trees, graphs, heaps, union-find and complexity"
+    },
+    {
+     "fromDay": 106,
+     "subject": "Computer Networks",
+     "topic": "Subnetting, routing, TCP and protocol mixed set"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": false,
+   "weeklyReviewText": null,
+   "mockPhase": null,
+   "learnSubject": "Mixed CS",
+   "learnTopic": "Repair the 5 lowest-accuracy topics from all subjects",
+   "revisionSubject": "COA",
+   "revisionTopic": "ALU design and arithmetic operations",
+   "gaTopic": "Quant: data interpretation, tables and charts",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Chest + shoulders + triceps; 5-min warm-up, controlled sets",
+   "lifeCategory": "Communication",
+   "lifeTask": "explain one concept aloud in 2 minutes.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  },
+  {
+   "day": 114,
+   "weekday": "Mon",
+   "date": "2027-02-01",
+   "fullMock": false,
+   "due": [
+    {
+     "fromDay": 113,
+     "subject": "Mixed CS",
+     "topic": "Repair the 5 lowest-accuracy topics from all subjects"
+    },
+    {
+     "fromDay": 110,
+     "subject": "DBMS + OS",
+     "topic": "Transactions/serializability plus scheduling/synchronisation mixed set"
+    },
+    {
+     "fromDay": 107,
+     "subject": "Compiler Design",
+     "topic": "FIRST/FOLLOW, parsing, intermediate code and data-flow mixed set"
+    }
+   ],
+   "dueNote": null,
+   "weeklyReview": true,
+   "weeklyReviewText": "record focused hours, P/R/E accuracy, mock trend, five weakest topics and next week's priorities. If a day is missed, resume; do not double tomorrow's load.",
+   "mockPhase": null,
+   "learnSubject": "All subjects",
+   "learnTopic": "Final formula/algorithm sheet, error-log reattempts and light confidence quiz",
+   "revisionSubject": "GA",
+   "revisionTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaTopic": "Analytical: deduction, induction, analogies and numerical relations",
+   "gaQuestions": 5,
+   "gaMinMinutes": 10,
+   "gaMaxMinutes": 15,
+   "setsText": "P = 0 questions on today's learning topic; R = 20 questions from due 147 reviews and old-subject mistakes; E = 20 timed GATE-style mixed questions. Attempt before viewing solutions.",
+   "setP": 0,
+   "setR": 20,
+   "setRMax": null,
+   "setE": 20,
+   "workout": "Back + biceps + shoulders/forearms; 5-min warm-up",
+   "lifeCategory": "Career",
+   "lifeTask": "inspect one role and list its required skills.",
+   "endOfDay": "log P/R/E scores, accuracy, topic status (green/yellow/red), three mistakes to reattempt and tomorrow's first task."
+  }
+ ]
+}
